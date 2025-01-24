@@ -1,0 +1,1876 @@
+{"Garage": [
+    {
+        "année": "1950",
+        "constructeur": "Alfa Romeo",
+        "nom": "158",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Car_Mus%C3%A9e_Enzo_Ferrari_0008.JPG/465px-Car_Mus%C3%A9e_Enzo_Ferrari_0008.JPG",
+        "victoires": "6/6",
+        "nom_champion": "Giuseppe Nino Farina",
+        "fiche_technique" :{
+            "moteur": "8 cylindres en ligne",
+            "cylindrée": "1,5L",
+            "poids": "620 kg",
+            "puissance": "370 chevaux",
+            "max_rpm": "8 500 tours/minute",
+            "gearbox": "Manuelle 4 vitesses + marche arrière",
+            "pneus": "Pirelli (roues galettes)",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Giuseppe Nino Farina", "Juan Manuel Fangio", "Luigi Fagioli", "Reg Parnell", "Consalvo Sanesi", "Piero Taruffi"],
+            "idPilotes": ["farina", "fangio", "fagioli", "reg_parnell", "sanesi", "taruffi"],
+            "podiums": "12/36",
+            "poles": "6/6",
+            "fastest_laps": "6/6",
+            "abandons": "7/36"
+        }
+    },
+    {
+        "année": "1951",
+        "constructeur": "Alfa Romeo",
+        "nom": "159",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Alfa-Romeo-159-%281951%29.jpg",
+        "victoires": "4/8",
+        "nom_champion": "Juan Manuel Fangio",
+        "fiche_technique" :{
+            "moteur": "8 cylindres en ligne",
+            "cylindrée": "1,5L",
+            "poids": "710 kg",
+            "puissance": "425 chevaux",
+            "max_rpm": "9 600 tours/minute",
+            "gearbox": "Manuelle 4 vitesses + marche arrière",
+            "pneus": "Pirelli (roues galettes)",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Giuseppe Nino Farina", "Juan Manuel Fangio", "Luigi Fagioli", "Toulo de Graffenried", "Consalvo Sanesi", "Felice Bonetto", "Paul Pietsch"],
+            "idPilotes": ["farina", "fangio", "fagioli", "graffenried", "sanesi", "bonetto", "pietsch"],
+            "podiums": "9/56",
+            "poles": "4/8",
+            "fastest_laps": "7/8",
+            "abandons": "7/56"
+        }
+    },
+    {
+        "année": "1952, 1953",
+        "constructeur": "Scuderia Ferrari",
+        "nom": "500 F2",
+        "image": "https://auta5p.eu/muzea/museo_ferrari_2012/ferrari_11.jpg",
+        "victoires": "14/15",
+        "nom_champion": "Albero Ascari",
+        "fiche_technique" :{
+            "moteur": "4 cylindres en ligne",
+            "cylindrée": "1,9L",
+            "poids": "560 kg",
+            "puissance": "121 chevaux",
+            "max_rpm": "7 000 tours/minute",
+            "gearbox": "Manuelle 4 vitesses + marche arrière",
+            "pneus": "Pirelli (roues galettes)",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Giuseppe Nino Farina", "Piero Taruffi", "André Simon", "Alberto Ascari", "Luigi Villoresi"],
+            "idPilotes": ["farina", "taruffi", "simon", "ascari", "villoresi"],
+            "podiums": "31/90",
+            "poles": "13/15",
+            "fastest_laps": "9/15",
+            "abandons": "4/90"
+        }
+    },
+    {
+        "année": "1954, 1955",
+        "constructeur": "Mercedes-Benz",
+        "nom": "W196",
+        "image": "https://www.ultimatecarpage.com/images/gallery/fos2013/Mercedes-Benz-W196-89050.jpg",
+        "victoires": "10/12",
+        "nom_champion": "Juan Manuel Fangio",
+        "fiche_technique": {
+            "moteur": "8 cylindres en ligne",
+            "cylindrée": "2,5L",
+            "poids": "620 kg",
+            "puissance": "257 chevaux",
+            "max_rpm": "8 500 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Continental (roues galettes)",
+            "carburant": "Esso"
+        },
+        "statistiques": {
+            "pilotes": ["Juan Manuel Fangio", "Karl Kling", "Hans Herrmann", "Stirling Moss", "André Simon", "Piero Taruffi"],
+            "idPilotes": ["fangio", "kling", "hermann", "moss", "simon", "taruffi"],
+            "podiums": "17/66",
+            "poles": "8/12",
+            "fastest_laps": "9/12",
+            "abandons": "12/66"
+        }
+    },
+    {
+        "année": "1956",
+        "constructeur": "Ferrari",
+        "nom": "D50",
+        "image": "https://www.ultimatecarpage.com/images/car/123/Ferrari-Lancia-D50-1769.jpg",
+        "victoires": "5/8",
+        "nom_champion": "Juan Manuel Fangio",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "2,5L",
+            "poids": "620 kg",
+            "puissance": "260 chevaux",
+            "max_rpm": "7 500 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Englebert (roues galettes)",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Juan Manuel Fangio", "Peter Collins", "Eugenio Castellotti", "Luigi Musso"],
+            "idPilotes": ["fangio", "collins", "castellotti", "musso"],
+            "podiums": "8/32",
+            "poles": "5/8",
+            "fastest_laps": "4/8",
+            "abandons": "7/32"
+        }
+    },
+    {
+        "année": "1957",
+        "constructeur": "Maserati",
+        "nom": "250F",
+        "image": "https://www.ultimatecarpage.com/images/car/3965/Maserati-250F-T2--Lightweight--31678.jpg",
+        "victoires": "4/8",
+        "nom_champion": "Juan Manuel Fangio",
+        "fiche_technique": {
+            "moteur": "6 cylindres en ligne",
+            "cylindrée": "2,5L",
+            "poids": "620 kg",
+            "puissance": "270 chevaux",
+            "max_rpm": "7 600 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Pirelli (roues galettes)",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Juan Manuel Fangio", "Harry Schell", "Jean Behra"],
+            "idPilotes": ["fangio", "schell", "behra"],
+            "podiums": "5/24",
+            "poles": "5/8",
+            "fastest_laps": "6/8",
+            "abandons": "4/24"
+        }
+    },
+    {
+        "année": "1958",
+        "constructeur": "Ferrari",
+        "nom": "246 F1",
+        "image": "https://www.ultimatecarpage.com/images/large/127/Ferrari-246-F1-Dino_1.jpg",
+        "victoires": "2/10",
+        "nom_champion": "Mike Hawthorn",
+        "fiche_technique": {
+            "moteur": "V6 à 65°",
+            "cylindrée": "2,4L",
+            "poids": "560 kg",
+            "puissance": "280 chevaux",
+            "max_rpm": "8 500 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Dunlop",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Mike Hawthorn", "Peter Collins", "Luigi Musso", "Phil Hill", "Olivier Gendebien"],
+            "idPilotes": ["hawthorn", "collins", "musso", "phil_hill", "gendebien"],
+            "podiums": "13/50",
+            "poles": "4/10",
+            "fastest_laps": "6/10",
+            "abandons": "11/50"
+        }
+    },
+    {
+        "année": "1959",
+        "constructeur": "Cooper",
+        "nom": "T51",
+        "image": "https://www.ultimatecarpage.com/images/car/1424/Cooper-T51-Climax-10331.jpg",
+        "victoires": "3/8",
+        "nom_champion": "Jack Brabham",
+        "fiche_technique": {
+            "moteur": "4 cylindres en ligne",
+            "cylindrée": "2,5L",
+            "poids": "500 kg",
+            "puissance": "240 chevaux",
+            "max_rpm": "8 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Dunlop",
+            "carburant": ""
+        },
+        "statistiques": {
+            "pilotes": ["Jack Brabham", "Masten Gregory", "Bruce McLaren", "Giorgio Scarlatti"],
+            "idPilotes": ["brabham", "gregory", "mclaren", "scarlatti"],
+            "podiums": "8/32",
+            "poles": "1/8",
+            "fastest_laps": "2/8",
+            "abandons": "1/32"
+        }
+    },
+    {
+        "année": "1960",
+        "constructeur": "Cooper",
+        "nom": "T53",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cooper_T53_10.jpg/1280px-Cooper_T53_10.jpg",
+        "victoires": "6/10",
+        "nom_champion": "Jack Brabham",
+        "fiche_technique": {
+            "moteur": "4 cylindres en ligne",
+            "cylindrée": "2,5L",
+            "poids": "450 kg",
+            "puissance": "239 chevaux",
+            "max_rpm": "7 200 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Dunlop",
+            "carburant": ""
+        },
+        "statistiques": {
+            "pilotes": ["Jack Brabham", "Bruce McLaren"],
+            "idPilotes": ["jack_brabham", "mclaren"],
+            "podiums": "11/20",
+            "poles": "3/10",
+            "fastest_laps": "4/10",
+            "abandons": "2/10"
+        }
+    },
+    {
+        "année": "1961",
+        "constructeur": "Ferrari",
+        "nom": "156",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ferrari_Tipo_156_Sharknose_%281961%29_Solitude_Revival_2019_IMG_1632.jpg",
+        "victoires": "4/7",
+        "nom_champion": "Phil Hill",
+        "fiche_technique": {
+            "moteur": "V6 à 120°",
+            "cylindrée": "1,4L",
+            "poids": "420 kg",
+            "puissance": "190 chevaux",
+            "max_rpm": "9 500 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Dunlop",
+            "carburant": ""
+        },
+        "statistiques": {
+            "pilotes": ["Phil Hill", "Wolfgang von Trips", "Richie Ginther", "Olivier Gendebien", "Willy Mairesse"],
+            "idPilotes": ["phil_hill", "trips", "ginther", "gendebien", "mairesse"],
+            "podiums": "14/49",
+            "poles": "6/7",
+            "fastest_laps": "3/7",
+            "abandons": "6/49"
+        }
+    },
+    {
+        "année": "1962",
+        "constructeur": "British Racing Motors (BRM)",
+        "nom": "P578",
+        "image": "https://www.ultimatecarpage.com/images/car/6418/BRM-P578-59941.jpg",
+        "victoires": "4/9",
+        "nom_champion": "Graham Hill",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "1,4L",
+            "poids": "499 kg",
+            "puissance": "190 chevaux",
+            "max_rpm": "10 250 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Dunlop",
+            "carburant": "Esso"
+        },
+        "statistiques": {
+            "pilotes": ["Graham Hill", "Richie Ginther"],
+            "idPilotes": ["hill", "ginther"],
+            "podiums": "8/18",
+            "poles": "1/9",
+            "fastest_laps": "2/9",
+            "abandons": "4/18"
+        }
+    },
+    {
+        "année": "1963",
+        "constructeur": "Lotus",
+        "nom": "Lotus 25",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lotus_25_Jim_Clark_Donington.jpg",
+        "victoires": "7/10",
+        "nom_champion": "Jim Clark",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "1,5L",
+            "poids": "452 kg",
+            "puissance": "200 chevaux",
+            "max_rpm": "9 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Dunlop",
+            "carburant": "BP"
+        },
+        "statistiques": {
+            "pilotes": ["Jim Clark", "Trevor Taylor", "Peter Arundell", "Mike Spence", "Pedro Rodriguez"],
+            "idPilotes": ["clark", "trevor_taylor", "arundell", "spence", "rodriguez"],
+            "podiums": "9/50",
+            "poles": "7/10",
+            "fastest_laps": "6/10",
+            "abandons": "6/50"
+        }
+    },
+    {
+        "année": "1964",
+        "constructeur": "Ferrari",
+        "nom": "158 F1",
+        "image": "https://www.ultimatecarpage.com/images/car/4150/Ferrari-158-F1-69021.jpg",
+        "victoires": "2/10",
+        "nom_champion": "John Surtees",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "1,5L",
+            "poids": "468 kg",
+            "puissance": "210 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Dunlop",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["John Surtees", "Lorenzo Bandini"],
+            "idPilotes": ["surtees", "bandini"],
+            "podiums": "8/20",
+            "poles": "2/10",
+            "fastest_laps": "2/10",
+            "abandons": "7/20"
+        }
+    },
+    {
+        "année": "1965",
+        "constructeur": "Lotus",
+        "nom": "33",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lotus_33_%281963%29%2C_Paris_Motor_Show_2018%2C_IMG_0336.jpg/1200px-Lotus_33_%281963%29%2C_Paris_Motor_Show_2018%2C_IMG_0336.jpg",
+        "victoires": "6/10",
+        "nom_champion": "Jim Clark",
+        "fiche_technique" :{
+            "moteur": "V8 à 90°",
+            "cylindrée": "1,5L",
+            "poids": "468 kg",
+            "puissance": "210 chevaux",
+            "max_rpm": "10 500 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Dunlop",
+            "carburant": "Esso"
+        },
+        "statistiques": {
+            "pilotes": ["Jim Clark", "Mike Spence"],
+            "idPilotes": ["clark", "spence"],
+            "podiums": "6/20",
+            "poles": "6/10",
+            "fastest_laps": "5/10",
+            "abandons": "4/20"
+        }
+    },
+    {
+        "année": "1966",
+        "constructeur": "Brabham",
+        "nom": "BT19",
+        "image": "https://speedcafe.us/wp-content/uploads/2023/09/202VASC01ADL-02654-1200x800.jpg",
+        "victoires": "4/9",
+        "nom_champion": "Jack Brabham",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "520 kg",
+            "puissance": "300 chevaux",
+            "max_rpm": "8 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Esso"
+        },
+        "statistiques": {
+            "pilotes": ["Jack Brabham", "Denny Hulme"],
+            "idPilotes": ["jack_brabham", "hulme"],
+            "podiums": "11/18",
+            "poles": "3/9",
+            "fastest_laps": "2/9",
+            "abandons": "8/18"
+        }
+    },
+    {
+        "année": "1967",
+        "constructeur": "Brabham",
+        "nom": "BT24",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Brabham_BT24_1967.jpg",
+        "victoires": "4/11",
+        "nom_champion": "Denny Hulme",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "2,9L",
+            "poids": "530 kg",
+            "puissance": "330 chevaux",
+            "max_rpm": "8 500 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "BP"
+        },
+        "statistiques": {
+            "pilotes": ["Denny Hulme", "Jack Brabham"],
+            "idPilotes": ["hulme", "jack_brabham"],
+            "podiums": "14/22",
+            "poles": "2/11",
+            "fastest_laps": "1/11",
+            "abandons": "4/22"
+        }
+    },
+    {
+        "année": "1968",
+        "constructeur": "Lotus",
+        "nom": "49B",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lotus_49B_front-left_Donington_Grand_Prix_Collection.jpg",
+        "victoires": "3/12",
+        "nom_champion": "Graham Hill",
+        "fiche_technique" :{
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "535 kg",
+            "puissance": "410 chevaux",
+            "max_rpm": "10 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Firestone",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Graham Hill", "Jackie Oliver"],
+            "idPilotes": ["hill", "oliver"],
+            "podiums": "6/24",
+            "poles": "2/12",
+            "fastest_laps": "1/12",
+            "abandons": "8/24"
+        }
+    },
+    {
+        "année": "1969",
+        "constructeur": "Matra",
+        "nom": "Matra MS80",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matra_MS80_Silver_2007_01.jpg/800px-Matra_MS80_Silver_2007_01.jpg",
+        "victoires": "6/11",
+        "nom_champion": "Jackie Stewart",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "540 kg",
+            "puissance": "410 chevaux",
+            "max_rpm": "10 500 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Dunlop",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Jackie Stewart", "Jean-Pierre Beltoise"],
+            "idPilotes": ["stewart", "beltoise"],
+            "podiums": "10/22",
+            "poles": "2/11",
+            "fastest_laps": "5/11",
+            "abandons": "5/22"
+        }
+    },
+    {
+        "année": "1970",
+        "constructeur": "Lotus",
+        "nom": "72C",
+        "image": "https://i.pinimg.com/originals/3e/77/8d/3e778d97e1a1db55f0af60eab85e0aea.jpg",
+        "victoires": "6/13",
+        "nom_champion": "Jochen Rindt",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "530 kg",
+            "puissance": "450 chevaux",
+            "max_rpm": "10 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Firestone",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Jochen Rindt", "Emerson Fittipaldi", "John Miles"],
+            "idPilotes": ["rindt", "emerson_fittipaldi", "miles"],
+            "podiums": "6/39",
+            "poles": "3/13",
+            "fastest_laps": "1/13",
+            "abandons": "8/39"
+        }
+    },
+    {
+        "année": "1971",
+        "constructeur": "Tyrrell",
+        "nom": "003",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tyrrell_003_Canada_2004_%28crop%29.PNG/640px-Tyrrell_003_Canada_2004_%28crop%29.PNG",
+        "victoires": "7/11",
+        "nom_champion": "Jackie Stewart",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "548 kg",
+            "puissance": "450 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Jackie Stewart", "François Cevert"],
+            "idPilotes": ["stewart", "cevert"],
+            "podiums": "11/22",
+            "poles": "6/11",
+            "fastest_laps": "3/11",
+            "abandons": "6/22"
+        }
+    },
+    {
+        "année": "1972",
+        "constructeur": "Lotus",
+        "nom": "72D",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lotus_72_JPS.jpg/988px-Lotus_72_JPS.jpg",
+        "victoires": "5/12",
+        "nom_champion": "Emerson Fittipaldi",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "530 kg",
+            "puissance": "450 chevaux",
+            "max_rpm": "10 800 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Firestone",
+            "carburant": ""
+        },
+        "statistiques": {
+            "pilotes": ["Emerson Fittipaldi", "Dave Walker"],
+            "idPilotes": ["emerson_fittipaldi", "walker"],
+            "podiums": "8/24",
+            "poles": "3/12",
+            "fastest_laps": "0/12",
+            "abandons": "7/24"
+        }
+    },
+    {
+        "année": "1973",
+        "constructeur": "Tyrrell",
+        "nom": "006",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Tyrrell_006.jpg",
+        "victoires": "5/15",
+        "nom_champion": "Jackie Stewart",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "575 kg",
+            "puissance": "490 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Jackie Stewart", "François Cevert"],
+            "idPilotes": ["stewart", "cevert"],
+            "podiums": "15/30",
+            "poles": "3/15",
+            "fastest_laps": "1/15",
+            "abandons": "3/30"
+        }
+    },
+    {
+        "année": "1974",
+        "constructeur": "McLaren",
+        "nom": "M23",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/McLaren_M23_%28Emerson_Fittipaldi%29_-_001.jpg",
+        "victoires": "4/15",
+        "nom_champion": "Emerson Fittipaldi",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "575 kg",
+            "puissance": "490 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "BP"
+        },
+        "statistiques": {
+            "pilotes": ["Emerson Fittipaldi", "Denny Hulme"],
+            "idPilotes": ["emerson_fittipaldi", "hulme"],
+            "podiums": "9/30",
+            "poles": "2/15",
+            "fastest_laps": "1/15",
+            "abandons": "7/30"
+        }
+    },
+    {
+        "année": "1975",
+        "constructeur": "Scuderia Ferrari",
+        "nom": "312T",
+        "image": "https://media.gqmagazine.fr/photos/5d0ccfa8cb0f116ac03d8d60/master/w_1600%2Cc_limit/Auction-Block-Niki-Lauda-1975-Ferrari-312T-Race-Car-0-Hero.jpg",
+        "victoires": "6/14",
+        "nom_champion": "Niki Lauda",
+        "fiche_technique": {
+            "moteur": "12 cylindres à plat",
+            "cylindrée": "3,0L",
+            "poids": "575 kg",
+            "puissance": "495 chevaux",
+            "max_rpm": "12 500 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Agip"
+        },
+        "statistiques": {
+            "pilotes": ["Niki Lauda", "Clay Regazzoni"],
+            "idPilotes": ["lauda", "regazzoni"],
+            "podiums": "11/28",
+            "poles": "9/14",
+            "fastest_laps": "3/14",
+            "abandons": "5/28"
+        }
+    },
+    {
+        "année": "1976",
+        "constructeur": "McLaren",
+        "nom": "M26",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/McLaren_M26%2C_ex-James_Hunt_%281978_spec%29_at_Classic_Remise_Berlin.jpg",
+        "victoires": "6/16",
+        "nom_champion": "James Hunt",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "575 kg",
+            "puissance": "475 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Texaco"
+        },
+        "statistiques": {
+            "pilotes": ["James Hunt", "Jochen Mass"],
+            "idPilotes": ["hunt", "mass"],
+            "podiums": "10/32",
+            "poles": "7/16",
+            "fastest_laps": "3/16",
+            "abandons": "9/32"
+        }
+    },
+    {
+        "année": "1977",
+        "constructeur": "Scuderia Ferrari",
+        "nom": "312T2",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Regazzoni%2C_Clay_am_31.07.1976_-_Ferrari_312T.jpg",
+        "victoires": "4/17",
+        "nom_champion": "Niki Lauda",
+        "fiche_technique": {
+            "moteur": "12 cylindres à plat",
+            "cylindrée": "3,0L",
+            "poids": "560 kg",
+            "puissance": "500 chevaux",
+            "max_rpm": "12 500 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Agip"
+        },
+        "statistiques": {
+            "pilotes": ["Niki Lauda", "Carlos Reutemann"],
+            "idPilotes": ["lauda", "reutemann"],
+            "podiums": "16/34",
+            "poles": "2/17",
+            "fastest_laps": "4/17",
+            "abandons": "7/34"
+        }
+    },
+    {
+        "année": "1978",
+        "constructeur": "Lotus",
+        "nom": "79",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Lotus_79_2009_Lime_Rock.jpg",
+        "victoires": "7/16",
+        "nom_champion": "Mario Andretti",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "575 kg",
+            "puissance": "475 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Valvoline"
+        },
+        "statistiques": {
+            "pilotes": ["Mario Andretti", "Ronnie Peterson"],
+            "idPilotes": ["mario_andretti", "peterson"],
+            "podiums": "14/32",
+            "poles": "11/16",
+            "fastest_laps": "5/16",
+            "abandons": "10/32"
+        }
+    },
+    {
+        "année": "1979",
+        "constructeur": "Scuderia Ferrari",
+        "nom": "312T4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ferrari_312T4_front-right_Museo_Ferrari.jpg",
+        "victoires": "6/15",
+        "nom_champion": "Jody Scheckter",
+        "fiche_technique": {
+            "moteur": "12 cylindres à plat",
+            "cylindrée": "3,0L",
+            "poids": "590 kg",
+            "puissance": "515 chevaux",
+            "max_rpm": "12 500 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Agip"
+        },
+        "statistiques": {
+            "pilotes": ["Jody Scheckter", "Gilles Villeneuve"],
+            "idPilotes": ["scheckter", "gilles_villeneuve"],
+            "podiums": "13/30",
+            "poles": "2/15",
+            "fastest_laps": "5/15",
+            "abandons": "5/30"
+        }
+    },
+    {
+        "année": "1980",
+        "constructeur": "Williams",
+        "nom": "FW07",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Williams_FW07_Mont-Tremblant.jpg",
+        "victoires": "6/14",
+        "nom_champion": "Alan Jones",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "585 kg",
+            "puissance": "475 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Mobil"
+        },
+        "statistiques": {
+            "pilotes": ["Alan Jones", "Carlos Reutemann"],
+            "idPilotes": ["jones", "reutemann"],
+            "podiums": "18/28",
+            "poles": "3/14",
+            "fastest_laps": "6/14",
+            "abandons": "6/28"
+        }
+    },
+    {
+        "année": "1981",
+        "constructeur": "Brabham",
+        "nom": "BT49",
+        "image": "https://www.fiskens.com/blobs/images/stock/13554_01%205d4_1601.b.jpg?width=2000&height=1333&mode=crop",
+        "victoires": "3/14",
+        "nom_champion": "Nelson Piquet",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "580 kg",
+            "puissance": "475 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Nelson Piquet", "Héctor Rebaque"],
+            "idPilotes": ["piquet", "rebaque"],
+            "podiums": "7/28",
+            "poles": "4/14",
+            "fastest_laps": "1/14",
+            "abandons": "13/28"
+        }
+    },
+    {
+        "année": "1982",
+        "constructeur": "Williams",
+        "nom": "FW08",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1982WilliamsCosworthFW08.jpg",
+        "victoires": "1/16",
+        "nom_champion": "Keke Rosberg",
+        "fiche_technique": {
+            "moteur": "V8 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "520 kg",
+            "puissance": "480 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Mobil"
+        },
+        "statistiques": {
+            "pilotes": ["Keke Rosberg", "Derek Daly"],
+            "idPilotes": ["keke_rosberg", "daly"],
+            "podiums": "6/32",
+            "poles": "1/16",
+            "fastest_laps": "0/16",
+            "abandons": "9/32"
+        }
+    },
+    {
+        "année": "1983",
+        "constructeur": "Brabham",
+        "nom": "BT52",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/BMW_Museum_IMG_20141113_104325_%2815674582320%29.jpg",
+        "victoires": "4/15",
+        "nom_champion": "Nelson Piquet",
+        "fiche_technique": {
+            "moteur": "4 cylindres en ligne + turbo",
+            "cylindrée": "1,5L",
+            "poids": "540 kg",
+            "puissance": "640 chevaux",
+            "max_rpm": "9 500 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Michelin",
+            "carburant": "Castrol"
+        },
+        "statistiques": {
+            "pilotes": ["Nelson Piquet", "Riccardo Patrese"],
+            "idPilotes": ["piquet", "patrese"],
+            "podiums": "10/30",
+            "poles": "2/15",
+            "fastest_laps": "3/15",
+            "abandons": "14/30"
+        }
+    },
+    {
+        "année": "1984",
+        "constructeur": "McLaren",
+        "nom": "MP4/2",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/McLaren_MP4-2.jpg",
+        "victoires": "12/16",
+        "nom_champion": "Niki Lauda",
+        "fiche_technique": {
+            "moteur": "V6 turbo à 80°",
+            "cylindrée": "1,5L",
+            "poids": "540 kg",
+            "puissance": "800 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Michelin",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Niki Lauda", "Alain Prost"],
+            "idPilotes": ["lauda", "prost"],
+            "podiums": "18/32",
+            "poles": "3/16",
+            "fastest_laps": "9/16",
+            "abandons": "11/32"
+        }
+    },
+    {
+        "année": "1985",
+        "constructeur": "McLaren",
+        "nom": "MP4/2B",
+        "image": "https://robbreport.com/wp-content/uploads/2018/06/concorsodeleganza2018_gm_hc_cars_4971.jpg?w=900&h=600&crop=1",
+        "victoires": "6/16",
+        "nom_champion": "Alain Prost",
+        "fiche_technique": {
+            "moteur": "V6 turbo à 80°",
+            "cylindrée": "1,5L",
+            "poids": "540 kg",
+            "puissance": "850 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Michelin",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Niki Lauda", "Alain Prost"],
+            "idPilotes": ["lauda", "prost"],
+            "podiums": "12/32",
+            "poles": "2/16",
+            "fastest_laps": "5/16",
+            "abandons": "14/32"
+        }
+    },
+    {
+        "année": "1986",
+        "constructeur": "McLaren",
+        "nom": "MP4/2C",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Button_Goodwood_Alain_Prost_2010.jpg",
+        "victoires": "4/16",
+        "nom_champion": "Alain Prost",
+        "fiche_technique": {
+            "moteur": "V6 turbo à 80°",
+            "cylindrée": "1,5L",
+            "poids": "540 kg",
+            "puissance": "830 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 5 vitesses + marche arrière",
+            "pneus": "Michelin",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Keke Rosberg", "Alain Prost"],
+            "idPilotes": ["keke_rosberg", "prost"],
+            "podiums": "11/32",
+            "poles": "2/16",
+            "fastest_laps": "2/16",
+            "abandons": "10/32"
+        }
+    },
+    {
+        "année": "1987",
+        "constructeur": "Williams",
+        "nom": "FW11B",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Williams_FW11_Honda_Collection_Hall.jpg",
+        "victoires": "9/16",
+        "nom_champion": "Nelson Piquet",
+        "fiche_technique": {
+            "moteur": "V6 turbo à 80°",
+            "cylindrée": "1,5L",
+            "poids": "540 kg",
+            "puissance": "850 chevaux",
+            "max_rpm": "11 000 tours/minute",
+            "gearbox": "Manuelle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Mobil"
+        },
+        "statistiques": {
+            "pilotes": ["Nelson Piquet", "Nigel Mansell"],
+            "idPilotes": ["piquet", "mansell"],
+            "podiums": "18/32",
+            "poles": "12/16",
+            "fastest_laps": "6/16",
+            "abandons": "6/32"
+        }
+    },
+    {
+        "année": "1988",
+        "constructeur": "McLaren",
+        "nom": "MP4/4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ayrton_Senna_in_1988.jpg/1200px-Ayrton_Senna_in_1988.jpg",
+        "victoires": "15/16",
+        "nom_champion": "Ayrton Senna",
+        "fiche_technique": {
+            "moteur": "V6 turbo à 80°",
+            "cylindrée": "1,5L",
+            "poids": "540 kg",
+            "puissance": "675 chevaux",
+            "max_rpm": "12 500 tours/minute",
+            "gearbox": "Manuelle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Ayrton Senna", "Alain Prost"],
+            "idPilotes": ["senna", "prost"],
+            "podiums": "25/32",
+            "poles": "15/16",
+            "fastest_laps": "10/16",
+            "abandons": "3/32"
+        }
+    },
+    {
+        "année": "1989",
+        "constructeur": "McLaren",
+        "nom": "MP4/5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/McLaren_MP4-5_Honda_Collection_Hall.jpg",
+        "victoires": "10/16",
+        "nom_champion": "Alain Prost",
+        "fiche_technique": {
+            "moteur": "V10 à 72°",
+            "cylindrée": "3,5L",
+            "poids": "500 kg",
+            "puissance": "685 chevaux",
+            "max_rpm": "13 500 tours/minute",
+            "gearbox": "Manuelle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Ayrton Senna", "Alain Prost"],
+            "idPilotes": ["senna", "prost"],
+            "podiums": "18/32",
+            "poles": "15/16",
+            "fastest_laps": "8/16",
+            "abandons": "9/32"
+        }
+    },
+    {
+        "année": "1990",
+        "constructeur": "McLaren",
+        "nom": "MP4/5B",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/McLaren_MP4-5B_2009_Japan.jpg",
+        "victoires": "6/16",
+        "nom_champion": "Ayrton Senna",
+        "fiche_technique": {
+            "moteur": "V10 à 72°",
+            "cylindrée": "3,5L",
+            "poids": "500 kg",
+            "puissance": "685 chevaux",
+            "max_rpm": "13 500 tours/minute",
+            "gearbox": "Manuelle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Ayrton Senna", "Gerhard Berger"],
+            "idPilotes": ["senna", "berger"],
+            "podiums": "18/32",
+            "poles": "12/16",
+            "fastest_laps": "5/16",
+            "abandons": "7/32"
+        }
+    },
+    {
+        "année": "1991",
+        "constructeur": "McLaren",
+        "nom": "MP4/6",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/McLaren_MP4-6_Honda.jpg",
+        "victoires": "8/16",
+        "nom_champion": "Ayrton Senna",
+        "fiche_technique": {
+            "moteur": "V12 à 60°",
+            "cylindrée": "3,5L",
+            "poids": "500 kg",
+            "puissance": "750 chevaux",
+            "max_rpm": "14 000 tours/minute",
+            "gearbox": "Manuelle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Ayrton Senna", "Gerhard Berger"],
+            "idPilotes": ["senna", "berger"],
+            "podiums": "18/32",
+            "poles": "10/16",
+            "fastest_laps": "4/16",
+            "abandons": "8/32"
+        }
+    },
+    {
+        "année": "1992",
+        "constructeur": "Williams",
+        "nom": "FW14B",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Williams_FW14B.jpg",
+        "victoires": "10/16",
+        "nom_champion": "Nigel Mansell",
+        "fiche_technique": {
+            "moteur": "V10 à 67°",
+            "cylindrée": "3,5L",
+            "poids": "510 kg",
+            "puissance": "750 chevaux",
+            "max_rpm": "14 000 tours/minute",
+            "gearbox": "Séquentielle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Nigel Mansell", "Riccardo Patrese"],
+            "idPilotes": ["mansell", "patrese"],
+            "podiums": "21/32",
+            "poles": "15/16",
+            "fastest_laps": "11/16",
+            "abandons": "9/32"
+        }
+    },
+    {
+        "année": "1993",
+        "constructeur": "Williams",
+        "nom": "FW15C",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Alain_Prost_-_Williams_FW15C_at_the_1993_British_Grand_Prix_%2832873616913%29.jpg",
+        "victoires": "10/16",
+        "nom_champion": "Alain Prost",
+        "fiche_technique": {
+            "moteur": "V10 à 67°",
+            "cylindrée": "3,5L",
+            "poids": "505 kg",
+            "puissance": "780 chevaux",
+            "max_rpm": "14 000 tours/minute",
+            "gearbox": "Séquentielle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Damon Hill", "Alain Prost"],
+            "idPilotes": ["damon_hill", "prost"],
+            "podiums": "22/32",
+            "poles": "15/16",
+            "fastest_laps": "10/16",
+            "abandons": "5/32"
+        }
+    },
+    {
+        "année": "1994",
+        "constructeur": "Benetton",
+        "nom": "B194",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Benetton_B_194_4841.JPG/1200px-Benetton_B_194_4841.JPG",
+        "victoires": "8/16",
+        "nom_champion": "Michael Schumacher",
+        "fiche_technique": {
+            "moteur": "V8 à 75°",
+            "cylindrée": "3,5L",
+            "poids": "515 kg",
+            "puissance": "740 chevaux",
+            "max_rpm": "14 000 tours/minute",
+            "gearbox": "Séquentielle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Michael Schumacher", "Jos Verstappen"],
+            "idPilotes": ["michael_schumacher", "verstappen"],
+            "podiums": "12/32",
+            "poles": "6/16",
+            "fastest_laps": "7/16",
+            "abandons": "13/32"
+        }
+    },
+    {
+        "année": "1995",
+        "constructeur": "Benetton",
+        "nom": "B195",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Benetton_B195_left_2019_Michael_Schumacher_Private_Collection.jpg",
+        "victoires": "11/17",
+        "nom_champion": "Michael Schumacher",
+        "fiche_technique": {
+            "moteur": "V10 à 67°",
+            "cylindrée": "3,0L",
+            "poids": "515 kg",
+            "puissance": "700 chevaux",
+            "max_rpm": "15 500 tours/minute",
+            "gearbox": "Séquentielle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Michael Schumacher", "Johnny Herbert"],
+            "idPilotes": ["michael_schumacher", "herbert"],
+            "podiums": "15/34",
+            "poles": "4/17",
+            "fastest_laps": "8/17",
+            "abandons": "8/34"
+        }
+    },
+    {
+        "année": "1996",
+        "constructeur": "Williams",
+        "nom": "FW18",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jacques_Villeneuve_1996.jpg/1200px-Jacques_Villeneuve_1996.jpg",
+        "victoires": "12/16",
+        "nom_champion": "Damon Hill",
+        "fiche_technique": {
+            "moteur": "V10 à 67°",
+            "cylindrée": "3,0L",
+            "poids": "595 kg",
+            "puissance": "700 chevaux",
+            "max_rpm": "16 000 tours/minute",
+            "gearbox": "Séquentielle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Damon Hill", "Jacques Villeneuve"],
+            "idPilotes": ["damon_hill", "villeneuve"],
+            "podiums": "21/32",
+            "poles": "12/16",
+            "fastest_laps": "11/16",
+            "abandons": "7/32"
+        }
+    },
+    {
+        "année": "1997",
+        "constructeur": "Williams",
+        "nom": "FW19",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Williams_FW19_front-left_2017_Williams_Conference_Centre_2.jpg/1200px-Williams_FW19_front-left_2017_Williams_Conference_Centre_2.jpg",
+        "victoires": "8/17",
+        "nom_champion": "Jacques Villeneuve",
+        "fiche_technique": {
+            "moteur": "V10 à 71°",
+            "cylindrée": "3,0L",
+            "poids": "605 kg",
+            "puissance": "745 chevaux",
+            "max_rpm": "17 000 tours/minute",
+            "gearbox": "Séquentielle 6 vitesses + marche arrière",
+            "pneus": "Goodyear",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Heinz-Harald Frentzen", "Jacques Villeneuve"],
+            "idPilotes": ["frentzen", "villeneuve"],
+            "podiums": "15/34",
+            "poles": "11/17",
+            "fastest_laps": "9/17",
+            "abandons": "10/34"
+        }
+    },
+    {
+        "année": "1998",
+        "constructeur": "McLaren",
+        "nom": "MP4/13",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mercedes-Benz%2C_Techno-Classica_2018%2C_Essen_%28IMG_9896%29.jpg",
+        "victoires": "9/16",
+        "nom_champion": "Mika Hakkinen",
+        "fiche_technique": {
+            "moteur": "V10 à 72°",
+            "cylindrée": "3,0L",
+            "poids": "605 kg",
+            "puissance": "790 chevaux",
+            "max_rpm": "17 000 tours/minute",
+            "gearbox": "Séquentielle 6 vitesses + marche arrière",
+            "pneus": "Bridgestone Potenza (pneus rainurés)",
+            "carburant": "Mobil 1"
+        },
+        "statistiques": {
+            "pilotes": ["Mika Hakkinen", "David Coulthard"],
+            "idPilotes": ["hakkinen", "coulthard"],
+            "podiums": "20/32",
+            "poles": "12/16",
+            "fastest_laps": "9/16",
+            "abandons": "7/32"
+        }
+    },
+    {
+        "année": "1999",
+        "constructeur": "McLaren",
+        "nom": "MP4/14",
+        "image": "https://www.f1authentics.com/cdn/shop/files/mp4-14-main_88a6c1a6-67ba-4b25-87c1-8b729bbdbed2.jpg?v=1649929261&width=4160",
+        "victoires": "7/16",
+        "nom_champion": "Mika Hakkinen",
+        "fiche_technique": {
+            "moteur": "V10 à 72°",
+            "cylindrée": "3,0L",
+            "poids": "600 kg",
+            "puissance": "790 chevaux",
+            "max_rpm": "17 000 tours/minute",
+            "gearbox": "Séquentielle 6 vitesses + marche arrière",
+            "pneus": "Bridgestone Potenza (pneus rainurés)",
+            "carburant": "Mobil 1"
+        },
+        "statistiques": {
+            "pilotes": ["Mika Hakkinen", "David Coulthard"],
+            "idPilotes": ["hakkinen", "coulthard"],
+            "podiums": "16/32",
+            "poles": "11/16",
+            "fastest_laps": "9/16",
+            "abandons": "12/32"
+        }
+    },
+    {
+        "année": "2000",
+        "constructeur": "Scuderia Ferrari",
+        "nom": "F1-2000",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ferrari_F1-2000_front-right_Museo_Ferrari.jpg",
+        "victoires": "10/17",
+        "nom_champion": "Michael Schumacher",
+        "fiche_technique" :{
+            "moteur": "V10 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "605 kg",
+            "puissance": "810 chevaux",
+            "max_rpm": "17 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Bridgestone Potenza (pneus rainurés)",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Michael Schumacher", "Rubens Barrichello"],
+            "idPilotes": ["michael_schumacher", "barrichello"],
+            "podiums": "21/34",
+            "poles": "10/17",
+            "fastest_laps": "5/17",
+            "abandons": "8/34"
+        }
+    },
+    {
+        "année": "2001",
+        "constructeur": "Scuderia Ferrari",
+        "nom": "F2001",
+        "image": "https://i.pinimg.com/originals/d5/da/c7/d5dac73f4555332187f0106cab3fcb75.jpg",
+        "victoires": "10/20",
+        "nom_champion": "Michael Schumacher",
+        "fiche_technique" :{
+            "moteur": "V10 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "605 kg",
+            "puissance": "825 chevaux",
+            "max_rpm": "17 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Bridgestone Potenza (pneus rainurés)",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Michael Schumacher", "Rubens Barrichello"],
+            "idPilotes": ["michael_schumacher", "barrichello"],
+            "podiums": "26/40",
+            "poles": "13/20",
+            "fastest_laps": "3/20",
+            "abandons": "5/40"
+        }
+    },
+    {
+        "année": "2002",
+        "constructeur": "Scuderia Ferrari",
+        "nom": "F2002",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ferrari_store_at_Serravalle_Designer_Outlet%2C_Serravalle_Scrivia_%288859424060%29.jpg/1024px-Ferrari_store_at_Serravalle_Designer_Outlet%2C_Serravalle_Scrivia_%288859424060%29.jpg",
+        "victoires": "15/19",
+        "nom_champion": "Michael Schumacher",
+        "fiche_technique" :{
+            "moteur": "V10 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "605 kg",
+            "puissance": "835 chevaux",
+            "max_rpm": "17 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Bridgestone Potenza (pneus rainurés)",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Michael Schumacher", "Rubens Barrichello"],
+            "idPilotes": ["michael_schumacher", "barrichello"],
+            "podiums": "28/38",
+            "poles": "11/19",
+            "fastest_laps": "15/19",
+            "abandons": "0/38"
+        }
+    },
+    {
+        "année": "2003",
+        "constructeur": "Scuderia Ferrari",
+        "nom": "F2003-GA",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Michael_Schumacher_2003_Silverstone_%28cropped%29.jpg",
+        "victoires": "8/16",
+        "nom_champion": "Michael Schumacher",
+        "fiche_technique" :{
+            "moteur": "V10 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "605 kg",
+            "puissance": "845 chevaux",
+            "max_rpm": "18 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Bridgestone Potenza (pneus rainurés)",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Michael Schumacher", "Rubens Barrichello"],
+            "idPilotes": ["michael_schumacher", "barrichello"],
+            "podiums": "16/32",
+            "poles": "8/19",
+            "fastest_laps": "8/19",
+            "abandons": "6/38"
+        }
+    },
+    {
+        "année": "2004",
+        "constructeur": "Scuderia Ferrari",
+        "nom": "F2004",
+        "image": "https://media.cgtrader.com/variants/hyWaWoFp6ymZ4oDkf1viUmz9/64d1262c1acde2eb3beef249c4695a8ad88c958dd79db36f763bf631017addd0/Ferrari%20F2004%2010.png",
+        "victoires": "15/18",
+        "nom_champion": "Michael Schumacher",
+        "fiche_technique" :{
+            "moteur": "V10 à 90°",
+            "cylindrée": "3,0L",
+            "poids": "605 kg",
+            "puissance": "900 chevaux",
+            "max_rpm": "19 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Bridgestone Potenza (pneus rainurés)",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Michael Schumacher", "Rubens Barrichello"],
+            "idPilotes": ["michael_schumacher", "barrichello"],
+            "podiums": "29/36",
+            "poles": "12/18",
+            "fastest_laps": "14/18",
+            "abandons": "2/36"
+        }
+    },
+    {
+        "année": "2005",
+        "constructeur": "Renault",
+        "nom": "R25",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Alonso_%28Renault%29_qualifying_at_USGP_2005.jpg",
+        "victoires": "8/19",
+        "nom_champion": "Fernando Alonso",
+        "fiche_technique" :{
+            "moteur": "V10 à 72°",
+            "cylindrée": "3,0L",
+            "poids": "605 kg",
+            "puissance": "900 chevaux",
+            "max_rpm": "19 000 tours/minute",
+            "gearbox": "séquentielle 6 vitesses + marche arrière",
+            "pneus": "Michelin (pneus rainurés)",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Fernando Alonso", "Giancarlo Fisichella"],
+            "idPilotes": ["alonso", "fisichella"],
+            "podiums": "18/38",
+            "poles": "7/19",
+            "fastest_laps": "3/19",
+            "abandons": "6/38"
+        }
+    },
+    {
+        "année": "2006",
+        "constructeur": "Renault",
+        "nom": "R26",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Renault_R26_front-left_2017_Museo_Fernando_Alonso.jpg",
+        "victoires": "8/18",
+        "nom_champion": "Fernando Alonso",
+        "fiche_technique" :{
+            "moteur": "V8 à 90°",
+            "cylindrée": "2,4L",
+            "poids": "605 kg",
+            "puissance": "765 chevaux",
+            "max_rpm": "20 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Michelin (pneus rainurés)",
+            "carburant": "Elf"
+        },
+        "statistiques": {
+            "pilotes": ["Fernando Alonso", "Giancarlo Fisichella"],
+            "idPilotes": ["alonso", "fisichella"],
+            "podiums": "19/36",
+            "poles": "7/18",
+            "fastest_laps": "5/18",
+            "abandons": "4/36"
+        }
+    },
+    {
+        "année": "2007",
+        "constructeur": "Scuderia Ferrari",
+        "nom": "F2007",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ferrari_F2007_front-right_Museo_Ferrari.jpg/1200px-Ferrari_F2007_front-right_Museo_Ferrari.jpg",
+        "victoires": "9/17",
+        "nom_champion": "Kimi Raikkonen",
+        "fiche_technique" :{
+            "moteur": "V8 à 90°",
+            "cylindrée": "2,4L",
+            "poids": "605 kg",
+            "puissance": "800 chevaux",
+            "max_rpm": "19 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Bridgestone Potenza (pneus rainurés)",
+            "carburant": "Shell"
+        },
+        "statistiques": {
+            "pilotes": ["Kimi Raikkonen", "Felipe Massa"],
+            "idPilotes": ["raikkonen", "massa"],
+            "podiums": "22/34",
+            "poles": "9/17",
+            "fastest_laps": "12/17",
+            "abandons": "3/34"
+        }
+    },
+    {
+        "année": "2008",
+        "constructeur": "McLaren",
+        "nom": "MP4-23",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lewis_Hamilton_2008_China.jpg",
+        "victoires": "6/18",
+        "nom_champion": "Lewis Hamilton",
+        "fiche_technique" :{
+            "moteur": "V8 à 90°",
+            "cylindrée": "2,4L",
+            "poids": "605 kg",
+            "puissance": "810 chevaux",
+            "max_rpm": "19 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Bridgestone Potenza (pneus rainurés)",
+            "carburant": "Mobil 1"
+        },
+        "statistiques": {
+            "pilotes": ["Lewis Hamilton", "Heikki Kovalainen"],
+            "idPilotes": ["hamilton", "kovalainen"],
+            "podiums": "13/36",
+            "poles": "8/18",
+            "fastest_laps": "3/18",
+            "abandons": "4/36"
+        }
+    },
+    {
+        "année": "2009",
+        "constructeur": "Brawn GP",
+        "nom": "BGP001",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Button_Spain_2009.jpg",
+        "victoires": "8/17",
+        "nom_champion": "Jenson Button",
+        "fiche_technique" :{
+            "moteur": "V8 à 90°",
+            "cylindrée": "2,4L",
+            "poids": "605 kg",
+            "puissance": "750 chevaux",
+            "max_rpm": "18 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Bridgestone Potenza (pneus slicks)",
+            "carburant": "Mobil 1"
+        },
+        "statistiques": {
+            "pilotes": ["Jenson Button", "Rubens Barrichello"],
+            "idPilotes": ["button", "barrichello"],
+            "podiums": "15/34",
+            "poles": "5/17",
+            "fastest_laps": "4/17",
+            "abandons": "2/34"
+        }
+    },
+    {
+        "année": "2010",
+        "constructeur": "Red Bull Racing",
+        "nom": "RB6",
+        "image": "https://www.f1-fansite.com/wp-content/uploads/2012/07/GEPA_full_7886_GEPA-13061099034.jpg",
+        "victoires": "9/19",
+        "nom_champion": "Sebastian Vettel",
+        "fiche_technique" :{
+            "moteur": "V8 à 90°",
+            "cylindrée": "2,4L",
+            "poids": "620 kg",
+            "puissance": "750 chevaux",
+            "max_rpm": "18 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Bridgestone Potenza (pneus slicks)",
+            "carburant": "Total"
+        },
+        "statistiques": {
+            "pilotes": ["Sebastian Vettel", "Mark Webber"],
+            "idPilotes": ["vettel", "webber"],
+            "podiums": "20/38",
+            "poles": "15/19",
+            "fastest_laps": "6/19",
+            "abandons": "5/38"
+        }
+    },
+    {
+        "année": "2011",
+        "constructeur": "Red Bull Racing",
+        "nom": "RB7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sebastian_Vettel_2011_Malaysia_FP1_1.jpg/1200px-Sebastian_Vettel_2011_Malaysia_FP1_1.jpg",
+        "victoires": "12/19",
+        "nom_champion": "Sebastian Vettel",
+        "fiche_technique" :{
+            "moteur": "V8 à 90°",
+            "cylindrée": "2,4L",
+            "poids": "640 kg",
+            "puissance": "750 chevaux",
+            "max_rpm": "18 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Total"
+        },
+        "statistiques": {
+            "pilotes": ["Sebastian Vettel", "Mark Webber"],
+            "idPilotes": ["vettel", "webber"],
+            "podiums": "27/38",
+            "poles": "18/19",
+            "fastest_laps": "10/19",
+            "abandons": "2/38"
+        }
+    },
+    {
+        "année": "2012",
+        "constructeur": "Red Bull Racing",
+        "nom": "RB8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Mark_Webber_2012_Malaysia_Qualify.jpg",
+        "victoires": "7/20",
+        "nom_champion": "Sebastian Vettel",
+        "fiche_technique" :{
+            "moteur": "V8 à 90°",
+            "cylindrée": "2,4L",
+            "poids": "642 kg",
+            "puissance": "750 chevaux",
+            "max_rpm": "18 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Total"
+        },
+        "statistiques": {
+            "pilotes": ["Sebastian Vettel", "Mark Webber"],
+            "idPilotes": ["vettel", "webber"],
+            "podiums": "14/40",
+            "poles": "8/20",
+            "fastest_laps": "7/20",
+            "abandons": "3/40"
+        }
+    },
+    {
+        "année": "2013",
+        "constructeur": "Red Bull Racing",
+        "nom": "RB9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/F1_2013_Jerez_test_-_Red_Bull_2.jpg",
+        "victoires": "13/19",
+        "nom_champion": "Sebastian Vettel",
+        "fiche_technique" :{
+            "moteur": "V8 à 90°",
+            "cylindrée": "2,4L",
+            "poids": "642 kg",
+            "puissance": "750 chevaux",
+            "max_rpm": "18 000 tours/minute",
+            "gearbox": "séquentielle 7 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Total"
+        },
+        "statistiques": {
+            "pilotes": ["Sebastian Vettel", "Mark Webber"],
+            "idPilotes": ["vettel", "webber"],
+            "podiums": "24/38",
+            "poles": "11/19",
+            "fastest_laps": "8/19",
+            "abandons": "4/38"
+        }
+    },
+    {
+        "année": "2014",
+        "constructeur": "Mercedes-AMG",
+        "nom": "W05",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mercedes_F1_W05_Hybrid_%28Lewis_Hamilton%29.jpg",
+        "victoires": "16/19",
+        "nom_champion": "Lewis Hamilton",
+        "fiche_technique" :{
+            "moteur": "V6 turbo hybride à 90°",
+            "cylindrée": "1,6L",
+            "poids": "691 kg",
+            "puissance": "840 chevaux",
+            "max_rpm": "15 000 tours/minute",
+            "gearbox": "séquentielle 8 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Petronas"
+        },
+        "statistiques": {
+            "pilotes": ["Lewis Hamilton", "Nico Rosberg"],
+            "idPilotes": ["hamilton", "rosberg"],
+            "podiums": "31/38",
+            "poles": "18/19",
+            "fastest_laps": "12/19",
+            "abandons": "5/38"
+        }
+    },
+    {
+        "année": "2015",
+        "constructeur": "Mercedes-AMG",
+        "nom": "W06",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lewis_Hamilton_2015_Malaysia_FP2_1.jpg/1200px-Lewis_Hamilton_2015_Malaysia_FP2_1.jpg",
+        "victoires": "16/19",
+        "nom_champion": "Lewis Hamilton",
+        "fiche_technique" :{
+            "moteur": "V6 turbo hybride à 90°",
+            "cylindrée": "1,6L",
+            "poids": "702 kg",
+            "puissance": "870 chevaux",
+            "max_rpm": "15 000 tours/minute",
+            "gearbox": "séquentielle 8 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Petronas"
+        },
+        "statistiques": {
+            "pilotes": ["Lewis Hamilton", "Nico Rosberg"],
+            "idPilotes": ["hamilton", "rosberg"],
+            "podiums": "32/38",
+            "poles": "18/19",
+            "fastest_laps": "13/19",
+            "abandons": "2/38"
+        }
+    },
+    {
+        "année": "2016",
+        "constructeur": "Mercedes-AMG",
+        "nom": "W07",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lewis_Hamilton_2016_Malaysia_FP2_1.jpg",
+        "victoires": "19/21",
+        "nom_champion": "Nico Rosberg",
+        "fiche_technique" :{
+            "moteur": "V6 turbo hybride à 90°",
+            "cylindrée": "1,6L",
+            "poids": "691 kg",
+            "puissance": "900 chevaux",
+            "max_rpm": "15 000 tours/minute",
+            "gearbox": "séquentielle 8 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Petronas"
+        },
+        "statistiques": {
+            "pilotes": ["Lewis Hamilton", "Nico Rosberg"],
+            "idPilotes": ["hamilton", "rosberg"],
+            "podiums": "33/42",
+            "poles": "20/21",
+            "fastest_laps": "9/21",
+            "abandons": "3/42"
+        }
+    },
+    {
+        "année": "2017",
+        "constructeur": "Mercedes-AMG",
+        "nom": "W08",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Valtteri_Bottas_2017_Catalonia_test_%2827_Feb-2_Mar%29_Day_1.jpg/1200px-Valtteri_Bottas_2017_Catalonia_test_%2827_Feb-2_Mar%29_Day_1.jpg",
+        "victoires": "12/20",
+        "nom_champion": "Lewis Hamilton",
+        "fiche_technique" :{
+            "moteur": "V6 turbo hybride à 90°",
+            "cylindrée": "1,6L",
+            "poids": "728 kg",
+            "puissance": "949 chevaux",
+            "max_rpm": "15 000 tours/minute",
+            "gearbox": "séquentielle 8 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Petronas"
+        },
+        "statistiques": {
+            "pilotes": ["Lewis Hamilton", "Valtteri Bottas"],
+            "idPilotes": ["hamilton", "bottas"],
+            "podiums": "26/40",
+            "poles": "15/20",
+            "fastest_laps": "9/20",
+            "abandons": "1/40"
+        }
+    },
+    {
+        "année": "2018",
+        "constructeur": "Mercedes-AMG",
+        "nom": "W09",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bottas_Mercedes_W09_Testing_Barcelona.jpg/1200px-Bottas_Mercedes_W09_Testing_Barcelona.jpg",
+        "victoires": "11/21",
+        "nom_champion": "Lewis Hamilton",
+        "fiche_technique" :{
+            "moteur": "V6 turbo hybride à 90°",
+            "cylindrée": "1,6L",
+            "poids": "733 kg",
+            "puissance": "1000 chevaux",
+            "max_rpm": "15 000 tours/minute",
+            "gearbox": "séquentielle 8 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Petronas"
+        },
+        "statistiques": {
+            "pilotes": ["Lewis Hamilton", "Valtteri Bottas"],
+            "idPilotes": ["hamilton", "bottas"],
+            "podiums": "25/42",
+            "poles": "13/21",
+            "fastest_laps": "10/21",
+            "abandons": "2/42"
+        }
+    },
+    {
+        "année": "2019",
+        "constructeur": "Mercedes-AMG",
+        "nom": "W10",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/FIA_F1_Austria_2019_Nr._77_Bottas_3.jpg",
+        "victoires": "15/21",
+        "nom_champion": "Lewis Hamilton",
+        "fiche_technique" :{
+            "moteur": "V6 turbo hybride à 90°",
+            "cylindrée": "1,6L",
+            "poids": "743 kg",
+            "puissance": "1000 chevaux",
+            "max_rpm": "15 000 tours/minute",
+            "gearbox": "séquentielle 8 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Petronas"
+        },
+        "statistiques": {
+            "pilotes": ["Lewis Hamilton", "Valtteri Bottas"],
+            "idPilotes": ["hamilton", "bottas"],
+            "podiums": "32/42",
+            "poles": "10/21",
+            "fastest_laps": "9/21",
+            "abandons": "2/42"
+        }
+    },
+    {
+        "année": "2020",
+        "constructeur": "Mercedes-AMG",
+        "nom": "W11",
+        "image": "https://w0.peakpx.com/wallpaper/995/316/HD-wallpaper-mercedes-amg-f1-w11-eq-performance-2020-2.jpg",
+        "victoires": "13/17",
+        "nom_champion": "Lewis Hamilton",
+        "fiche_technique" :{
+            "moteur": "V6 turbo hybride à 90°",
+            "cylindrée": "1,6L",
+            "poids": "746 kg",
+            "puissance": "1022 chevaux",
+            "max_rpm": "15 000 tours/minute",
+            "gearbox": "séquentielle 8 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Petronas"
+        },
+        "statistiques": {
+            "pilotes": ["Lewis Hamilton", "Valtteri Bottas"],
+            "idPilotes": ["hamilton", "bottas"],
+            "podiums": "25/34",
+            "poles": "14/17",
+            "fastest_laps": "9/17",
+            "abandons": "1/34"
+        }
+    },
+    {
+        "année": "2021",
+        "constructeur": "Red Bull Racing",
+        "nom": "RB16B",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/FIA_F1_Austria_2021_Nr._33_Verstappen.jpg/1200px-FIA_F1_Austria_2021_Nr._33_Verstappen.jpg",
+        "victoires": "11/22",
+        "nom_champion": "Max Verstappen",
+        "fiche_technique" :{
+            "moteur": "V6 turbo hybride à 90°",
+            "cylindrée": "1,6L",
+            "poids": "746 kg",
+            "puissance": "1080 chevaux",
+            "max_rpm": "15 000 tours/minute",
+            "gearbox": "séquentielle 8 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Mobil 1/Esso"
+        },
+        "statistiques": {
+            "pilotes": ["Max Verstappen", "Sergio Perez"],
+            "idPilotes": ["max_verstappen", "perez"],
+            "podiums": "23/44",
+            "poles": "10/22",
+            "fastest_laps": "9/22",
+            "abandons": "4/44"
+        }
+    },
+    {
+        "année": "2022",
+        "constructeur": "Red Bull Racing",
+        "nom": "RB18",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/2022_Miami_GP_-_Red_Bull_RB18_of_Sergio_P%C3%A9rez.jpg",
+        "victoires": "17/22",
+        "nom_champion": "Max Verstappen",
+        "fiche_technique" :{
+            "moteur": "V6 turbo hybride à 90°",
+            "cylindrée": "1,6L",
+            "poids": "798 kg",
+            "puissance": "1080 chevaux",
+            "max_rpm": "15 000 tours/minute",
+            "gearbox": "séquentielle 8 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Mobil 1"
+        },
+        "statistiques": {
+            "pilotes": ["Max Verstappen", "Sergio Perez"],
+            "idPilotes": ["max_verstappen", "perez"],
+            "podiums": "28/44",
+            "poles": "8/22",
+            "fastest_laps": "8/22",
+            "abandons": "3/44"
+        }
+    },
+    {
+        "année": "2023",
+        "constructeur": "Red Bull Racing",
+        "nom": "RB19",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/FIA_F1_Austria_2023_Nr._1_%281%29.jpg",
+        "victoires": "21/22",
+        "nom_champion": "Max Verstappen",
+        "fiche_technique" :{
+            "moteur": "V6 turbo hybride à 90°",
+            "cylindrée": "1,6L",
+            "poids": "798 kg",
+            "puissance": "1080 chevaux",
+            "max_rpm": "15 000 tours/minute",
+            "gearbox": "séquentielle 8 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Mobil 1"
+        },
+        "statistiques": {
+            "pilotes": ["Max Verstappen", "Sergio Perez"],
+            "idPilotes": ["max_verstappen", "perez"],
+            "podiums": "30/44",
+            "poles": "14/22",
+            "fastest_laps": "11/22",
+            "abandons": "2/44"
+        }
+    }
+
+    ]
+}

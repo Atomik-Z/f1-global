@@ -1,0 +1,64 @@
+{
+    "reponses": [
+        {
+            "theme": "Red Bull",
+            "idQuestion": "1",
+          "explication": "Red Bull participe à son premier Grand Prix sous ce nom en 2005, étant nommée Stewart Racing de 1997 à 1999 puis Jaguar de 2000 à 2004 avant de se faire racheter par la firme autrichienne. En 2006, Red Bull rachète Minardi, une autre écurie, pour fonder la Scuderia Toro Rosso, son écurie soeur",
+          "reponse": "2005"
+        },
+        {
+            "theme": "Red Bull",
+            "idQuestion": "2",
+          "explication": "Red Bull a remporté 6 titres constructeurs en 2010, 2011, 2012, 2013, 2022 et 2023",
+          "reponse": "6"
+        },
+        {
+          "theme": "Red Bull",
+          "idQuestion": "3",
+          "explication": "Red Bull a remporté 7 titres pilotes de 2010 à 2013 avec Sebastian Vettel, puis de 2021 à 2023 avec Max Verstappen",
+          "reponse": "7"
+        },
+        {
+          "theme": "Red Bull",
+          "idQuestion": "4",
+          "explication": "Après le Grand Prix du Canada, Red Bull a remporté 114 victoires",
+          "reponse": "114"
+        },
+        {
+          "theme": "Red Bull",
+          "idQuestion": "5",
+          "explication": "La première victoire en Grand Prix de Red Bull est remportée en 2009",
+          "reponse": "2009"
+        },
+        {
+          "theme": "Red Bull",
+          "idQuestion": "6",
+          "explication": "Red Bull a remporté son premier Grand Prix en Chine, en signant la pole position avec Sebastian Vettel, et en signant un doublé durant la course",
+          "reponse": "Chine"
+        },
+        {
+          "theme": "Red Bull",
+          "idQuestion": "7",
+          "explication": "Sebastian Vettel a signé la première victoire ainsi que la première pole position de Red Bull au Grand Prix de Chine 2009",
+          "reponse": "Sebastian Vettel"
+        },
+        {
+          "theme": "Red Bull",
+          "idQuestion": "8",
+          "explication": "Max Verstappen a remporté 60 victoires avec Red Bull. Sebastian Vettel est le deuxième pilote le plus victorieux avec 38 victoires",
+          "reponse": "Max Verstappen"
+        },
+        {
+          "theme": "Red Bull",
+          "idQuestion": "9",
+          "explication": "Au Grand Prix de Monaco 2006, David Coulthard vient offrir son premier podium à Red Bull",
+          "reponse": "David Coulthard"
+        },
+        {
+          "theme": "Red Bull",
+          "idQuestion": "10",
+          "explication": "Sebastian Vettel remportera son premier titre pilote avec Red Bull en 2010. Lui et son coéquipier Mark Webber vont leur offrir leur premier titre constructeur cette même année",
+          "reponse": "2010"
+        }
+      ]
+}

@@ -1,0 +1,79 @@
+{
+    "TitresConstructeurs": [
+        {
+            "constructorId": "ferrari",
+            "value": "16",
+            "year": "1961, 1964, 1975, 1976, 1977, 1979, 1982, 1983, 1999, 2000, 2001, 2002, 2003, 2004, 2007, 2008"
+        },
+        {
+            "constructorId": "williams",
+            "value": "9",
+            "year": "1980, 1981, 1986, 1987, 1992, 1993, 1994, 1996, 1997"
+        },
+        {
+            "constructorId": "mclaren",
+            "value": "8",
+            "year": "1974, 1984, 1985, 1988, 1989, 1990, 1991, 1998"
+        },
+        {
+            "constructorId": "mercedes",
+            "value": "8",
+            "year": "2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021"
+        },
+        {
+            "constructorId": "lotus",
+            "value": "7",
+            "year": "1963, 1965, 1968, 1970, 1972, 1973, 1978"
+        },
+        {
+            "constructorId": "red_bull",
+            "value": "6",
+            "year": "2010, 2011, 2012, 2013, 2022, 2023"
+        },
+        {
+            "constructorId": "cooper",
+            "value": "2",
+            "year": "1959, 1960"
+        },
+        {
+            "constructorId": "brabham",
+            "value": "2",
+            "year": "1966, 1967"
+        },
+        {
+            "constructorId": "renault",
+            "value": "2",
+            "year": "2005, 2006"
+        },
+        {
+            "constructorId": "vanwall",
+            "value": "1",
+            "year": "1958"
+        },
+        {
+            "constructorId": "brm",
+            "value": "1",
+            "year": "1962"
+        },
+        {
+            "constructorId": "matra",
+            "value": "1",
+            "year": "1969"
+        },
+        {
+            "constructorId": "tyrrell",
+            "value": "1",
+            "year": "1971"
+        },
+        {
+            "constructorId": "benetton",
+            "value": "1",
+            "year": "1995"
+        },
+        {
+            "constructorId": "brawn",
+            "value": "1",
+            "year": "2009"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "ExceptionList": [
+        {
+            "idErgast": "albert_park",
+            "nameApiSports": "Albert Park"
+        },
+        {
+            "idErgast": "suzuka",
+            "nameApiSports": "Suzuka"
+        },
+        {
+            "idErgast": "villeneuve",
+            "nameApiSports": "Villeneuve"
+        },
+        {
+            "idErgast": "catalunya",
+            "nameApiSports": "Catalunya"
+        },
+        {
+            "idErgast": "spa",
+            "nameApiSports": "Francorchamps"
+        },
+        {
+            "idErgast": "zandvoort",
+            "nameApiSports": "Zandvoort"
+        },
+        {
+            "idErgast": "monza",
+            "nameApiSports": "Monza"
+        },
+        {
+            "idErgast": "rodriguez",
+            "nameApiSports": "Rodriguez"
+        },
+        {
+            "idErgast": "interlagos",
+            "nameApiSports": "Carlos Pace"
+        },
+        {
+            "idErgast": "vegas",
+            "nameApiSports": "Vegas"
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+{
+    "ConstructorRecords": {
+        "Season": [{
+            "name": "Victoires",
+            "value": "21/22",
+            "constructor": [
+                {
+                    "constructorId": "red_bull",
+                    "fullName": "Red Bull Racing",
+                    "year": "2023"
+                }
+            ]
+        },
+        {
+            "name": "Podiums",
+            "value": "33",
+            "constructor": [
+                {
+                    "constructorId": "mercedes",
+                    "fullName": "Mercedes-AMG",
+                    "year": "2016"
+                }
+            ]
+        },
+        {
+            "name": "Points",
+            "value": "860",
+            "constructor": [
+                {
+                    "constructorId": "red_bull",
+                    "fullName": "Red Bull Racing",
+                    "year": "2023"
+                }
+            ]
+        },
+        {
+            "name": "Doublés (P1 + P2)",
+            "value": "12",
+            "constructor": [
+                {
+                    "constructorId": "mercedes",
+                    "fullName": "Mercedes-AMG",
+                    "year": "2015"
+                }
+            ]
+        },
+        {
+            "name": "Pole Positions",
+            "value": "20/21",
+            "constructor": [
+                {
+                    "constructorId": "mercedes",
+                    "fullName": "Mercedes-AMG",
+                    "year": "2016"
+                }
+            ]
+        },
+        {
+            "name": "Victoires consécutives",
+            "value": "11/16",
+            "constructor": [
+                {
+                    "constructorId": "mclaren",
+                    "fullName": "McLaren",
+                    "year": "1988 (Brésil -> Belgique)"
+                }
+            ]
+        },
+        {
+            "name": "Meilleurs tours en course",
+            "value": "14/18",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari",
+                    "year": "2004"
+                }
+            ]
+        },
+        {
+            "name": "Tours menés",
+            "value": "1 149/1 325",
+            "constructor": [
+                {
+                    "constructorId": "red_bull",
+                    "fullName": "Red Bull Racing",
+                    "year": "2023"
+                }
+            ]
+        },
+        {
+            "name": "Doublés consécutifs (P1 + P2)",
+            "value": "5",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari",
+                    "year": "1952 (Belgique -> Pays-Bas), 2002 (Hongrie -> Japon)"
+                },
+                {
+                    "constructorId": "mercedes",
+                    "fullName": "Mercedes-AMG",
+                    "year": "2014 (Malaisie -> Monaco), 2019 (Australie -> Espagne)"
+                }
+            ]
+        }],
+        "Career": [{
+            "name": "Victoires",
+            "value": "244",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari"
+                }
+            ]
+        },
+        {
+            "name": "Podiums",
+            "value": "813",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari"
+                }
+            ]
+        },
+        {
+            "name": "Points",
+            "value": "9 859",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari"
+                }
+            ]
+        },
+        {
+            "name": "Pole Positions",
+            "value": "249",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari"
+                }
+            ]
+        },
+        {
+            "name": "Victoires consécutives",
+            "value": "15",
+            "constructor": [
+                {
+                    "constructorId": "red_bull",
+                    "fullName": "Red Bull Racing",
+                    "year": "Abu Dhabi 2022 -> Monza 2023"
+                }
+            ]
+        },
+        {
+            "name": "Meilleurs tours en course",
+            "value": "261",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari"
+                }
+            ]
+        },
+        {
+            "name": "Tours menés",
+            "value": "15 758",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari"
+                }
+            ]
+        },
+        {
+            "name": "Titres constructeurs",
+            "value": "16",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari"
+                }
+            ]
+        },
+        {
+            "name": "Titres pilotes",
+            "value": "15",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari"
+                }
+            ]
+        },
+        {
+            "name": "Titres constructeurs consécutifs",
+            "value": "8",
+            "constructor": [
+                {
+                    "constructorId": "mercedes",
+                    "fullName": "Mercedes-AMG",
+                    "year":  "2014 -> 2021"
+                }
+            ]
+        },
+        {
+            "name": "Nombre de Grand Prix entrés",
+            "value": "1080",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari"
+                }
+            ]
+        },
+        {
+            "name": "Nombre de Grand Prix sans podium",
+            "value": "340",
+            "constructor": [
+                {
+                    "constructorId": "minardi",
+                    "fullName": "Minardi Racing"
+                }
+            ]
+        },
+        {
+            "name": "Nombre de Grand Prix sans victoire",
+            "value": "373",
+            "constructor": [
+                {
+                    "constructorId": "sauber",
+                    "fullName": "Sauber Motorsport"
+                }
+            ]
+        },
+        {
+            "name": "Nombre de Grand Prix sans titre constructeur",
+            "value": "373",
+            "constructor": [
+                {
+                    "constructorId": "sauber",
+                    "fullName": "Sauber Motorsport"
+                }
+            ]
+        },
+        {
+            "name": "Nombre de Grand Prix avant la première victoire",
+            "value": "127",
+            "constructor": [
+                {
+                    "constructorId": "jordan",
+                    "fullName": "Jordan Grand Prix"
+                }
+            ]
+        },
+        {
+            "name": "Nombre de Grand Prix avant le premier podium",
+            "value": "75",
+            "constructor": [
+                {
+                    "constructorId": "footwork",
+                    "fullName": "Footwork - Arrows"
+                }
+            ]
+        },
+        {
+            "name": "Nombre de Grand Prix avant la première pole position",
+            "value": "143",
+            "constructor": [
+                {
+                    "constructorId": "haas",
+                    "fullName": "Haas F1 Team"
+                }
+            ]
+        },
+        {
+            "name": "Doublés (P1 + P2)",
+            "value": "86",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari"
+                }
+            ]
+        },
+        {
+            "name": "Doublés consécutifs (P1 + P2)",
+            "value": "5",
+            "constructor": [
+                {
+                    "constructorId": "ferrari",
+                    "fullName": "Scuderia Ferrari",
+                    "year": "1952 (Belgique -> Pays-Bas), 2002 (Hongrie -> Japon)"
+                },
+                {
+                    "constructorId": "mercedes",
+                    "fullName": "Mercedes-AMG",
+                    "year": "2014 (Malaisie -> Monaco), États-Unis 2015 -> Australie 2016, 2019 (Australie -> Espagne)"
+                }
+            ]
+        }]
+    }
+}

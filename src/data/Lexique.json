@@ -1,0 +1,124 @@
+{
+    "Lexique": [
+        {
+            "terme": "Undercut",
+            "définition": "L'undercut consiste à s'arrêter un tour plus tôt que la voiture devant pour profiter de pneus plus frais et ainsi le dépasser lorsque ce dernier s'arrêtera",
+            "catégorie": "Termes de course",
+            "sous-catégorie": "Stratégies en piste"
+        },
+        {
+            "terme": "Overcut",
+            "définition": "L'overcut consiste à s'arrêter un tour plus tard que la voiture de devant pour profiter du fait qu'il y aura d'autres voitures devant et ainsi creuser l'écart et ressortir devant au moment de l'arrêt",
+            "catégorie": "Termes de course",
+            "sous-catégorie": "Stratégies en piste"
+        },
+        {
+            "terme": "DRS",
+            "définition": "Le DRS (Drag Reduction System) est un système qui permet à l'aileron arrière de s'ouvrir, afin de laisser passer l'air et de gagner en vitesse de pointe. Le DRS ne peut s'activer en course que si vous êtes à moins d'une seconde de la voiture de devant",
+            "catégorie": "Termes techniques",
+            "sous-catégorie": "Voiture"
+        },
+        {
+            "terme": "Unité de Puissance",
+            "définition": "L'unité de puissance désigne toute la partie qui permet à la voiture d'avancer. Depuis 2014, on compte le moteur thermique, le turbocompresseur, les MGU-H et MGU-K ainsi que les batteries",
+            "catégorie": "Termes techniques",
+            "sous-catégorie": "Voiture"
+        },
+        {
+            "terme": "MGU-H",
+            "définition": "Le MGU-H (Motor Generator Unit - Heat) est un générateur d'énergie électrique qui va utiliser la chaleur du moteur pour produire de l'électricité",
+            "catégorie": "Termes techniques",
+            "sous-catégorie": "Voiture"
+        },
+        {
+            "terme": "MGU-K",
+            "définition": "Le MGU-K (Motor Generator Unit - Kinetic) est un générateur d'énergie électrique qui va utiliser l'énergie produite au freinage pour produire de l'électricité",
+            "catégorie": "Termes techniques",
+            "sous-catégorie": "Voiture"
+        },
+        {
+            "terme": "ERS",
+            "définition": "L'ERS (Energy Recovery System) désigne l'ensemble formé par les batteries, le MGU-H et le MGU-K permettant à la voiture de se servir de l'énergie électrique pour la propulser",
+            "catégorie": "Termes techniques",
+            "sous-catégorie": "Voiture"
+        },
+        {
+            "terme": "Voiture de sécurité",
+            "définition": "On dit qu'on fait intervenir la voiture de sécurité lorsqu'un accident survient et que l'on doit faire en sorte que des personnes et/ou des engins interviennent directement sur la piste. La voiture de sécurité permet de ralentir les autres voitures, le temps que la zone de l'accident ainsi que la piste soient dégagées",
+            "catégorie": "Termes de course",
+            "sous-catégorie": "Sécurité en piste"
+        },
+        {
+            "terme": "Les Drapeaux (jaunes, rouges, verts)",
+            "définition": "Ces drapeaux servent à prévenir les pilotes de la situation sur la piste. Le drapeau jaune indique qu'il y a un danger sur la piste et qu'il faut ralentir, le drapeau vert indique que le danger est écarté et le drapeau rouge indique que l'on suspend la séance en cours et que toutes les voitures doivent rentrer aux stands",
+            "catégorie": "Termes de course",
+            "sous-catégorie": "Sécurité en piste"
+        },
+        {
+            "terme": "Les Drapeaux (noir et blanc, noir et orange, noir)",
+            "définition": "Ces drapeaux servent à prévenir les pilotes de leur situation vis-à-vis des règles. Le drapeau noir et blanc indique qu'à la prochaine infraction aux règles, il y aura pénalité de temps, le drapeau noir et orange indique que la voiture a un problème et qu'il faut impérativement rentrer aux stands pour le régler et le drapeau noir est synonyme de disqualification",
+            "catégorie": "Termes de course",
+            "sous-catégorie": "Réglement sportif"
+        },
+        {
+            "terme": "Le Drapeau bleu",
+            "définition": "Le Drapeau Bleu est agité lorsqu'un pilote a derrière lui une voiture plus rapide qui n'est pas dans le même tour qu'elle (= la distance qui les sépare est à une centaine de mètres de la distance totale du circuit). La voiture de devant a alors obligation de laisser passer la voiture de derrière afin de ne pas la gêner",
+            "catégorie": "Termes de course",
+            "sous-catégorie": "Réglement sportif"
+        },
+        {
+            "terme": "Les Pénalités de temps",
+            "définition": "Les pénalités sont données aux pilotes lorsqu'ils enfreignent le réglement (être responsable d'un accident ou d'un contact avec une autre voiture ou sortir des limites de la piste). Les pilotes ont le droit à trois avertissements avant d'en recevoir. Les pénalités de temps peuvent être soit effectuées pendant un arrêt au stand (on ne touche pas à la voiture durant le temps de la pénalité) ou bien elles s'ajoutent au temps de course des pilotes à la fin de la course",
+            "catégorie": "Termes de course",
+            "sous-catégorie": "Réglement sportif"
+        },
+        {
+            "terme": "Le Drive-Through",
+            "définition": "Le Drive-Through est un type de pénalité qui impose au pilote de rouler dans la voie des stands sans s'arrêter à son garage. Un Drive-Through doit être effectué dans les deux tours suivant l'annonce, sauf s'il survient pendant l'intervention de la voiture de sécurité, auquel cas il faut servir la pénalité deux tours après qu'elle soit rentrée, sous peine de disqualification. Si la pénalité est donnée dans les 5 tours précédant la fin, alors elle sera transformée en une pénalité de 20 secondes",
+            "catégorie": "Termes de course",
+            "sous-catégorie": "Réglement sportif"
+        },
+        {
+            "terme": "Le Stop-and-Go",
+            "définition": "Le Stop-and-Go est un type de pénalité qui impose au pilote de s'arrêter 10 secondes à son garage avant de repartir, sans que les mécaniciens ne touchent à la voiture. Le Stop-and-Go respecte les mêmes modalités que le Drive-Through, à la seule différence que si elle est donnée dans les 5 tours précédant la fin de la course, alors elle se transforme en une pénalité de 30 secondes",
+            "catégorie": "Termes de course",
+            "sous-catégorie": "Réglement sportif"
+        },
+        {
+            "terme": "L'effet de sol",
+            "définition": "L'effet de sol désigne une façon de générer de l'appui aérodynamique, permettant à la voiture d'être plus rapide dans les virages. Pour simplifier, l'effet de sol fonctionne comme une aile d'avion mais dans le sens inverse",
+            "catégorie": "Termes techniques",
+            "sous-catégorie": "Voiture"
+        },
+        {
+            "terme": "Le fond plat",
+            "définition": "Le fond plat est l'élément constituant la partie basse de la voiture et permettant de générer l'appui aérodynamique dont la voiture a besoin",
+            "catégorie": "Termes techniques",
+            "sous-catégorie": "Voiture"
+        },
+        {
+            "terme": "Le diffuseur",
+            "définition": "Le diffuseur est la partie située à l'arrière de la voiture permettant de rediriger l'air du fond plat vers l'aileron arrière, permettant de générer de l'appui",
+            "catégorie": "Termes techniques",
+            "sous-catégorie": "Voiture"
+        },
+        {
+            "terme": "Les pontons",
+            "définition": "Les pontons sont les extensions situées de chaque côté de la voiture. A l'intérieur des pontons, il y a les radiateurs qui vont permettre de rafraichir le moteur",
+            "catégorie": "Termes techniques",
+            "sous-catégorie": "Voiture"
+        },
+        {
+            "terme": "Les limites de piste",
+            "définition": "Les limites de piste sur un circuit sont définies par les lignes blanches de part et d'autre de la piste. Les pilotes n'ont pas le droit de franchir ces limites",
+            "catégorie": "Termes techniques",
+            "sous-catégorie": "Circuit"
+        },
+        {
+            "terme": "Les vibreurs",
+            "définition": "Les vibreurs sont des bandes rouges et blanches situées à l'intérieur et à l'extérieur d'un virage. Les pilotes ont la possibilité de passer deux roues sur les vibreurs, mais il est parfois mieux d'éviter les vibreurs pour éviter de trop user les pneus",
+            "catégorie": "Termes techniques",
+            "sous-catégorie": "Circuit"
+        }
+    ]
+}

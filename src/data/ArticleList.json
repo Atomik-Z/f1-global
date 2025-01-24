@@ -1,0 +1,64 @@
+{
+    "ArticleList": [
+        {
+            "titre": "S'introduire à la F1 : les bases à connaître",
+            "type": "Guide",
+            "idArticle": "introduction_bases_f1",
+            "tags": ["introduction", "technique", "pilotes", "championnat", "constructeurs"],
+            "date": "2024-01-06",
+            "catchphrase": "Vous cherchez à vous introduire à la F1, mais vous êtes un peu perdus ? Pas de panique, ce guide va vous donner des pistes pour vous introduire à ce sport aussi captivant que dangereux.",
+            "contenu": ["Pendant très longtemps, la F1 était considérée comme un sport de niche qui servait à faire la sieste le dimanche après-midi. Mais depuis quelques années, le sport s'ouvre au monde et tente de toucher un nouveau public, et il est plus facile de s'informer sur ce qui entoure le monde de la F1.",
+                        "Si on se lance d'un coup sans rien y comprendre, l'expérience ne sera pas optimale. On va donc voir les points importants qu'il faut connaître pour comprendre comment se déroule une saison de F1.", 
+                        "En F1, il y a deux championnats qui se jouent en même temps :",
+                        "Le championnat des pilotes : ici c'est simple, c'est un championnat individuel et celui qui marque le plus de points est champion.", 
+                        "Le championnat des écuries : chaque écurie a deux pilotes, et les points de l'écurie sont déterminés par la somme des points des deux autres pilotes.", 
+                        "La saison se décompose en plusieurs meetings, qui durent du vendredi au dimanche et se décomposent comme suit :",
+                        "Vendredi : deux séances d'essais pour régler la voiture et faire en sorte qu'elle soit la plus performante possible durant la suite du weekend", 
+                        "Samedi : une dernière séance d'essais puis une séance de qualifications qui détermine l'ordre de départ de la course. Cette séance est décomposée en trois parties selon cette structure :",
+                        "Q1 : les pilotes ont 18 minutes pour faire un tour du circuit le plus rapide possible. Les pilotes sont classés selon leur temps le plus rapide et à la fin, les 5 derniers sont éliminés, c'est-à-dire qu'ils ne pourront pas tenter d'obtenir une meilleure position sur la grille.", 
+                        "Q2 : c'est le même principe que la Q1, sauf qu'ici les pilotes ont 15 minutes pour enregistrer un temps.", 
+                        "Q3 : Les 10 pilotes restants ont 12 minutes pour faire leur temps, qui déterminera qui partira devant qui.", 
+                        "Vous n'avez pas totalement compris ? Faisons un exemple : prenons trois pilotes, A, B et C. Durant la Q1, A se place 5e, B se place 12e et C ne se place que 17e. A et B pourront participer à la Q2 tandis que C n'y participera pas et partira 17e lors de la course. Durant la Q2, A se classe 3e et B 11e. A pourra passer en Q3 alors que B devra partir 11e.", 
+                        "Dimanche : c'est la course ! Les pilotes se font la course pendant environ deux heures pour atteindre la meilleure position possible à l'arrivée. Une fois la course finie, les points sont attribués comme suit : 25 pour le premier, 18 pour le deuxième, 15 pour le troisième, 12 pour le quatrtième, 10, 8, 6, 4, 2 et 1 points pour le reste du top 10. A noter qu'un point supplémentaire est attribué si le pilote qui a effectué le meilleur tour de la course se classe dans le top 10.", 
+                        "Durant une course, les pilotes doivent obligatoirement s'arrêter dans leurs stands pour changer de pneus. On ne parle pas d'un changement de pneus qu'on ferait chez le garagiste qui prendrait une dizaine de minutes, mais de changements de pneus rapides pour perdre le moins de temps possible. Le record de l'arrêt le plus rapide a été enregistré à 1 seconde et 8 dixièmes, soit le temps qu'il faut à une de ces voitures pour passer de 0 à 100km/h !", 
+                        "En ce qui concerne les pneus, il n'y a qu'un seul fournisseur, à savoir Pirelli. Chaque weekend, Pirelli amène trois types de pneus. Les pneus durs (bandes blanches) qui peuvent être utilisés très longtemps mais qui fournissent une moins bonne adhérence que les deux autres, les pneus tendres (bandes rouges) qui offrent la meilleure adhérence possible au prix d'une durée de vie plus réduite, et les pneus médiums (bandes jaunes) qui sont entre les pneus tendres et les pneus durs.", 
+                        "Voilà ! Vous avez les bases pour comprendre ce qu'il se passe pendant un weekend de F1."]
+        },
+        {
+            "titre": "Monaco : Prince Charles s'impose à domicile",
+            "type": "Débrief",
+            "idArticle": "debrief_monaco_2024",
+            "tags": ["monaco", "leclerc", "ferrari", "victoire", "domicile"],
+            "date": "2024-01-06",
+            "catchphrase": "Drapeau rouge, relais longs et victoire tant attendue de Charles Leclerc à domicile, il est temps de revenir sur les évènements qui ont marqué cette édition 2024 du Grand Prix de Monaco",
+            "contenu": [""]
+        },
+        {
+            "titre": "Canada : A quoi s'attendre pour le 9e meeeting ?",
+            "type": "Preview",
+            "idArticle": "preview_canada_2024",
+            "tags": ["canada", "red_bull", "alpine", "ferrari", "mclaren", "perez", "racing_bulls", "mercedes", "aston_martin"],
+            "date": "2024-01-06",
+            "catchphrase": "Mauvaise passe de Red Bull, duel McLaren vs Ferrari, bonne forme de Racing Bulls, on va voir à quoi s'attendre pour ce Grand Prix du Canada 2024",
+            "contenu": [""]
+        },
+        {
+            "titre": "Vettel : de champion détesté à pilote adoré",
+            "type": "Histoire de pilote",
+            "idArticle": "histoire_pilote_vettel",
+            "tags": ["vettel", "red_bull", "ferrari", "aston_martin", "toro_rosso", "champion"],
+            "date": "2024-01-06",
+            "catchphrase": "",
+            "contenu": [""]
+        },
+        {
+            "titre": "2013 : Le dernier rugissement du V8",
+            "type": "Rétro",
+            "idArticle": "retro_2013",
+            "tags": ["2013", "vettel", "ferrari", "victoire", "red_bull", "alonso", "grosjean", "raikkonen"],
+            "date": "2024-01-06",
+            "catchphrase": "",
+            "contenu": [""]
+        }
+    ]
+}
