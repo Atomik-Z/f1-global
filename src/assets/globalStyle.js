@@ -163,6 +163,59 @@ const GlobalStyle = createGlobalStyle`
     width: 50%;
     height: 50%;
   }
+
+  select {
+    background-color: #2c2f3f; /* Fond sombre */
+    color: white; /* Texte blanc */
+    border: 2px solid #ffffff; /* Bordure blanche pour démarquer */
+    border-radius: 8px; /* Coins arrondis */
+    padding: 8px 12px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+    outline: none;
+}
+
+/* Effet au survol */
+select:hover {
+    background-color: #3a3d4f;
+    border-color: #ffcc00; /* Accent color */
+}
+
+/* Effet lors de la sélection */
+select:focus {
+    border-color: #ff5733; /* Couleur vive pour l'interaction */
+    box-shadow: 0px 0px 8px rgba(255, 87, 51, 0.75);
+}
+
+/* Adapter la flèche déroulante */
+select::-ms-expand {
+    display: none;
+}
+
+button {
+    background-color: #2c2f3f; /* Fond sombre */
+    color: white; /* Texte blanc */
+    border: 2px solid #ffffff; /* Bordure blanche pour démarquer */
+    border-radius: 8px; /* Coins arrondis */
+    padding: 8px 12px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+    outline: none;
+}
+
+/* Effet au survol */
+button:hover {
+    background-color: #3a3d4f;
+    border-color: #ffcc00; /* Accent color */
+}
+
+/* Effet lors de la sélection */
+button:focus {
+    border-color: #ff5733; /* Couleur vive pour l'interaction */
+    box-shadow: 0px 0px 8px rgba(255, 87, 51, 0.75);
+}
 `;
 
 export default GlobalStyle;

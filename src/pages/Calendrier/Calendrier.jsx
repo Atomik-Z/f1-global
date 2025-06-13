@@ -80,6 +80,8 @@ function Calendrier({ year }) {
                       <p>Date : {race.date}</p>
                   </li>
               ))}
+              {selectedCategory === 'future' && futureRaces.length === 0}
+              <li>La saison est terminée</li>
           </ul>
       </div>
   );

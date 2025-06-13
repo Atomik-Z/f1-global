@@ -5,17 +5,53 @@ const StyledLink = styled(Link)`
     padding: 15px;
     color: #ffffff;
     text-decoration: none;
-    font-size:30px;
+    font-size: 30px;
     margin: 40px;
+    position: relative;
+    
+    &::after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 2px;
+        bottom: 0;
+        right: 0;
+        background-color: #ffffff;
+        transition: width 0.3s ease;
+    }
+    
+    &:hover::after {
+        width: 100%;
+        left: 0;
+        right: auto;
+    }
 `
 
 const StyledLogo = styled(Link)`
     padding: 15px;
     color: #ffffff;
     text-decoration: none;
-    font-size:30px;
+    font-size: 30px;
     margin: 40px;
     display: left;
+    position: relative;
+    
+    &::after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 2px;
+        bottom: 0;
+        right: 0;
+        background-color: #ffffff;
+        transition: width 0.3s ease;
+    }
+    
+    &:hover::after {
+        width: 100%;
+        left: 0;
+        right: auto;
+    }
 `
 
 const StyledNav = styled.nav`

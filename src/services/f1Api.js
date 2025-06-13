@@ -1,8 +1,8 @@
-import { createApi , fetchBaseQuery } from "@reduxjs/toolkit/query/react";
+import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 export const f1Api = createApi({
     reducerPath: 'f1Api',
-    baseQuery: fetchBaseQuery({ baseUrl: 'https://ergast.com/api/f1/'}),
+    baseQuery: fetchBaseQuery({ baseUrl: 'https://api.jolpi.ca/ergast/f1/' }), // Mise à jour de la base URL
     endpoints: (builder) => ({
         getCalendrier: builder.query({
             query: (season) => `${season}.json`
@@ -11,16 +11,13 @@ export const f1Api = createApi({
             query: (season) => `${season}/driverStandings.json`
         }),
         getCircuitInfo: builder.query({
-            query: (circuitId) => `/circuits/${circuitId}.json`
+            query: (circuitId) => `circuits/${circuitId}.json` // Suppression du "/" initial
         }),
         getConstructorStandings: builder.query({
             query: (season) => `${season}/constructorStandings.json`
         }),
         getRaceResults: builder.query({
-            query: (args) => {
-                const { season, race } = args;
-                return { url: `${season}/${race}/results.json`}
-            }
+            query: ({ season, race }) => `${season}/${race}/results.json`
         }),
         getLastRaceResults: builder.query({
             query: () => `current/last/results.json`
@@ -35,47 +32,35 @@ export const f1Api = createApi({
             query: (driverId) => `drivers/${driverId}/results/1.json`
         }),
         getDriverCareerPodiums: builder.query({
-            query: (args) => {
-                const { driverId, position } = args;
-                return { url: `drivers/${driverId}/results/${position}.json`}
-            }
+            query: ({ driverId, position }) => `drivers/${driverId}/results/${position}.json`
         }),
         getDriverSeasonWins: builder.query({
-            query: (args) => {
-                const { season, driverId } = args;
-                return { url: `${season}/drivers/${driverId}/results/1.json`}
-            } 
+            query: ({ season, driverId }) => `${season}/drivers/${driverId}/results/1.json`
         }),
         getDriverSeasonPodiums: builder.query({
-            query: (args) => {
-                const { season, driverId, position } = args;
-                return { url: `${season}/drivers/${driverId}/results/${position}.json`}
-            }
+            query: ({ season, driverId, position }) => `${season}/drivers/${driverId}/results/${position}.json`
         }),
         getConstructorCareerWins: builder.query({
             query: (constructorId) => `constructors/${constructorId}/results/1.json`
         }),
         getConstructorCareerPodiums: builder.query({
-            query: (args) => {
-                const { constructorId, position } = args;
-                return { url: `constructors/${constructorId}/results/${position}.json`}
-            }
+            query: ({ constructorId, position }) => `constructors/${constructorId}/results/${position}.json`
         }),
         getConstructorSeasonWins: builder.query({
-            query: (args) => {
-                const { constructorId, season } = args;
-                return { url: `${season}/constructors/${constructorId}/results/1.json`}
-            }
+            query: ({ constructorId, season }) => `${season}/constructors/${constructorId}/results/1.json`
         }),
         getConstructorSeasonPodiums: builder.query({
-            query: (args) => {
-                const { constructorId, season, position } = args;
-                return { url: `${season}/constructors/${constructorId}/results/${position}.json`}
-            }
+            query: ({ constructorId, season, position }) => `${season}/constructors/${constructorId}/results/${position}.json`
         }),
     })
-})
+});
 
-export const { useGetDriverQuery, useGetConstructorQuery, useGetCalendrierQuery, useGetConstructorCareerPodiumsQuery, useGetConstructorCareerWinsQuery, useGetConstructorSeasonPodiumsQuery
-, useGetConstructorSeasonWinsQuery, useGetDriverCareerPodiumsQuery, useGetDriverCareerWinsQuery, useGetDriverSeasonPodiumsQuery, useGetDriverSeasonWinsQuery, useGetConstructorStandingsQuery
-, useGetDriverStandingsQuery, useGetRaceResultsQuery, useGetLastRaceResultsQuery, useGetCircuitInfoQuery } = f1Api;
+export const { 
+    useGetDriverQuery, useGetConstructorQuery, useGetCalendrierQuery, 
+    useGetConstructorCareerPodiumsQuery, useGetConstructorCareerWinsQuery, 
+    useGetConstructorSeasonPodiumsQuery, useGetConstructorSeasonWinsQuery, 
+    useGetDriverCareerPodiumsQuery, useGetDriverCareerWinsQuery, 
+    useGetDriverSeasonPodiumsQuery, useGetDriverSeasonWinsQuery, 
+    useGetConstructorStandingsQuery, useGetDriverStandingsQuery, 
+    useGetRaceResultsQuery, useGetLastRaceResultsQuery, useGetCircuitInfoQuery 
+} = f1Api;

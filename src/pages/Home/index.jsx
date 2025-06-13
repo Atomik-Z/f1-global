@@ -15,9 +15,9 @@ const StyledLink = styled(Link)`
 
 function App() {
   const { data: lastResults, isLoading } = useGetLastRaceResultsQuery();
-  const { data: driverStandings } = useGetDriverStandingsQuery('2024');
-  const { data: constructorStandings } = useGetConstructorStandingsQuery('2024');
-  const { data: calendarData } = useGetCalendrierQuery('2024');
+  const { data: driverStandings } = useGetDriverStandingsQuery('2025');
+  const { data: constructorStandings } = useGetConstructorStandingsQuery('2025');
+  const { data: calendarData } = useGetCalendrierQuery('2025');
 
   const [nextRaceDate, setNextRaceDate] = useState(null);
   const [nextRaceName, setNextRaceName] = useState('');

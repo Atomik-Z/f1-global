@@ -105,7 +105,7 @@
     },
     {
         "année": "1956",
-        "constructeur": "Ferrari",
+        "constructeur": "Scuderia Ferrari",
         "nom": "D50",
         "image": "https://www.ultimatecarpage.com/images/car/123/Ferrari-Lancia-D50-1769.jpg",
         "victoires": "5/8",
@@ -157,7 +157,7 @@
     },
     {
         "année": "1958",
-        "constructeur": "Ferrari",
+        "constructeur": "Scuderia Ferrari",
         "nom": "246 F1",
         "image": "https://www.ultimatecarpage.com/images/large/127/Ferrari-246-F1-Dino_1.jpg",
         "victoires": "2/10",
@@ -235,7 +235,7 @@
     },
     {
         "année": "1961",
-        "constructeur": "Ferrari",
+        "constructeur": "Scuderia Ferrari",
         "nom": "156",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ferrari_Tipo_156_Sharknose_%281961%29_Solitude_Revival_2019_IMG_1632.jpg",
         "victoires": "4/7",
@@ -313,7 +313,7 @@
     },
     {
         "année": "1964",
-        "constructeur": "Ferrari",
+        "constructeur": "Scuderia Ferrari",
         "nom": "158 F1",
         "image": "https://www.ultimatecarpage.com/images/car/4150/Ferrari-158-F1-69021.jpg",
         "victoires": "2/10",
@@ -1613,8 +1613,8 @@
     },
     {
         "année": "2014",
-        "constructeur": "Mercedes-AMG",
-        "nom": "W05",
+        "constructeur": "Mercedes-Benz",
+        "nom": "AMG W05",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mercedes_F1_W05_Hybrid_%28Lewis_Hamilton%29.jpg",
         "victoires": "16/19",
         "nom_champion": "Lewis Hamilton",
@@ -1639,8 +1639,8 @@
     },
     {
         "année": "2015",
-        "constructeur": "Mercedes-AMG",
-        "nom": "W06",
+        "constructeur": "Mercedes-Benz",
+        "nom": "AMG W06",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lewis_Hamilton_2015_Malaysia_FP2_1.jpg/1200px-Lewis_Hamilton_2015_Malaysia_FP2_1.jpg",
         "victoires": "16/19",
         "nom_champion": "Lewis Hamilton",
@@ -1665,8 +1665,8 @@
     },
     {
         "année": "2016",
-        "constructeur": "Mercedes-AMG",
-        "nom": "W07",
+        "constructeur": "Mercedes-Benz",
+        "nom": "AMG W07",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lewis_Hamilton_2016_Malaysia_FP2_1.jpg",
         "victoires": "19/21",
         "nom_champion": "Nico Rosberg",
@@ -1691,8 +1691,8 @@
     },
     {
         "année": "2017",
-        "constructeur": "Mercedes-AMG",
-        "nom": "W08",
+        "constructeur": "Mercedes-Benz",
+        "nom": "AMG W08",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Valtteri_Bottas_2017_Catalonia_test_%2827_Feb-2_Mar%29_Day_1.jpg/1200px-Valtteri_Bottas_2017_Catalonia_test_%2827_Feb-2_Mar%29_Day_1.jpg",
         "victoires": "12/20",
         "nom_champion": "Lewis Hamilton",
@@ -1717,8 +1717,8 @@
     },
     {
         "année": "2018",
-        "constructeur": "Mercedes-AMG",
-        "nom": "W09",
+        "constructeur": "Mercedes-Benz",
+        "nom": "AMG W09",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bottas_Mercedes_W09_Testing_Barcelona.jpg/1200px-Bottas_Mercedes_W09_Testing_Barcelona.jpg",
         "victoires": "11/21",
         "nom_champion": "Lewis Hamilton",
@@ -1743,8 +1743,8 @@
     },
     {
         "année": "2019",
-        "constructeur": "Mercedes-AMG",
-        "nom": "W10",
+        "constructeur": "Mercedes-Benz",
+        "nom": "AMG W10",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/FIA_F1_Austria_2019_Nr._77_Bottas_3.jpg",
         "victoires": "15/21",
         "nom_champion": "Lewis Hamilton",
@@ -1769,8 +1769,8 @@
     },
     {
         "année": "2020",
-        "constructeur": "Mercedes-AMG",
-        "nom": "W11",
+        "constructeur": "Mercedes-Benz",
+        "nom": "AMG W11",
         "image": "https://w0.peakpx.com/wallpaper/995/316/HD-wallpaper-mercedes-amg-f1-w11-eq-performance-2020-2.jpg",
         "victoires": "13/17",
         "nom_champion": "Lewis Hamilton",
@@ -1869,6 +1869,32 @@
             "poles": "14/22",
             "fastest_laps": "11/22",
             "abandons": "2/44"
+        }
+    },
+    {
+        "année": "2024",
+        "constructeur": "Red Bull Racing",
+        "nom": "RB20",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Max_Verstappen_2024_Chinese_GP.jpg/1280px-Max_Verstappen_2024_Chinese_GP.jpg",
+        "victoires": "9/24",
+        "nom_champion": "Max Verstappen",
+        "fiche_technique" :{
+            "moteur": "V6 turbo hybride à 90°",
+            "cylindrée": "1,6L",
+            "poids": "798 kg",
+            "puissance": "1080 chevaux",
+            "max_rpm": "15 000 tours/minute",
+            "gearbox": "séquentielle 8 vitesses + marche arrière",
+            "pneus": "Pirelli P-Zero (pneus lisses)",
+            "carburant": "Mobil 1"
+        },
+        "statistiques": {
+            "pilotes": ["Max Verstappen", "Sergio Perez"],
+            "idPilotes": ["max_verstappen", "perez"],
+            "podiums": "18/48",
+            "poles": "8/24",
+            "fastest_laps": "4/24",
+            "abandons": "5/48"
         }
     }
 

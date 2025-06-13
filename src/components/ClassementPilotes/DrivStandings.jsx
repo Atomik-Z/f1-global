@@ -2,6 +2,24 @@ import { useState } from 'react';
 import { useGetDriverStandingsQuery } from '../../services/f1Api';
 import DriverPopup from '../../pages/Pilotes/DriverPopup';
 import { useParams } from 'react-router-dom';
+import styled, { keyframes } from 'styled-components';
+
+const slideInFromRight = keyframes`
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+`;
+
+const AnimatedTableRow = styled.tr`
+  opacity: 0;
+  animation: ${slideInFromRight} 0.5s ease forwards;
+  animation-delay: ${props => `${props.index * 0.2}s`};
+`;
 
 function DrivStandings() {
   const {year} = useParams();
@@ -30,13 +48,13 @@ function DrivStandings() {
         </thead>
         <tbody>
           {driverStandings.map((driver, index) => (
-            <tr key={index}>
+            <AnimatedTableRow key={index} index={index}>
               <td>{driver.position}</td>
-              <td onClick={() => togglePopup(driver.Driver)} class="pilote">{`${driver.Driver.givenName} ${driver.Driver.familyName}`}</td>
+              <td onClick={() => togglePopup(driver.Driver)} className="pilote">{`${driver.Driver.givenName} ${driver.Driver.familyName}`}</td>
               <td>{driver.Constructors[0].name}</td>
               <td>{driver.wins}</td>
               <td>{driver.points}</td>
-            </tr>
+            </AnimatedTableRow>
           ))}
         </tbody>
       </table>

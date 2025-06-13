@@ -29,7 +29,7 @@ import Article from './pages/Articles/Article'
 import Lexique from './pages/Lexique/Lexique'
 import InfoCircuit from './pages/Circuit/InfoCircuit'
 
-const season="2024";
+const season="2025";
 
 ReactDOM.render(
     <React.StrictMode>

@@ -2,6 +2,24 @@ import { useState } from 'react';
 import { useGetConstructorStandingsQuery } from '../../services/f1Api';
 import ConstructorPopup from '../../pages/Constructeurs/ConstructorPopup';
 import { useParams } from 'react-router-dom';
+import styled, { keyframes } from 'styled-components';
+
+const slideInFromRight = keyframes`
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+`;
+
+const AnimatedTableRow = styled.tr`
+  opacity: 0;
+  animation: ${slideInFromRight} 0.5s ease forwards;
+  animation-delay: ${props => `${props.index * 0.2}s`};
+`;
 
 function ConstStandings() {
     const {year} = useParams();
@@ -16,9 +34,11 @@ function ConstStandings() {
     const { data: standings, isLoading} = useGetConstructorStandingsQuery(year);
     const constructorStandings = standings?.MRData.StandingsTable.StandingsLists[0].ConstructorStandings;
 
+    
+
   return !isLoading && (
     <div>
-      <table class="Constructors">
+      <table className="Constructors">
         <thead>
           <tr>
             <th>Position</th>
@@ -29,12 +49,12 @@ function ConstStandings() {
         </thead>
         <tbody>
           {constructorStandings.map((constructor, index) => (
-            <tr key={index}>
+            <AnimatedTableRow key={index} index={index}>
               <td>{constructor.position}</td>
-              <td onClick={() => togglePopup(constructor.Constructor)} class="constructeur">{constructor.Constructor.name}</td>
+              <td onClick={() => togglePopup(constructor.Constructor)} className="constructeur">{constructor.Constructor.name}</td>
               <td>{constructor.wins}</td>
               <td>{constructor.points}</td>
-            </tr>
+            </AnimatedTableRow>
           ))}
         </tbody>
       </table>
