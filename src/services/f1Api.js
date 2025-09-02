@@ -52,6 +52,18 @@ export const f1Api = createApi({
         getConstructorSeasonPodiums: builder.query({
             query: ({ constructorId, season, position }) => `${season}/constructors/${constructorId}/results/${position}.json`
         }),
+        getQualifyingResults: builder.query({
+            query: ({ season, race }) => `${season}/${race}/qualifying.json`,
+        }),
+        getSprintResults: builder.query({
+            query: ({ season, race }) => `${season}/${race}/sprint.json`,
+        }),
+        getAllDriverChampions: builder.query({
+            query: (season) => `${season}/driverStandings/1.json`,
+        }),
+        getAllConstructorChampions: builder.query({
+            query: (season) => `${season}/constructorStandings/1.json`,
+        }),
     })
 });
 
@@ -62,5 +74,6 @@ export const {
     useGetDriverCareerPodiumsQuery, useGetDriverCareerWinsQuery, 
     useGetDriverSeasonPodiumsQuery, useGetDriverSeasonWinsQuery, 
     useGetConstructorStandingsQuery, useGetDriverStandingsQuery, 
-    useGetRaceResultsQuery, useGetLastRaceResultsQuery, useGetCircuitInfoQuery 
+    useGetRaceResultsQuery, useGetLastRaceResultsQuery, useGetCircuitInfoQuery, useGetQualifyingResultsQuery,
+    useGetSprintResultsQuery, useGetAllConstructorChampionsQuery, useGetAllDriverChampionsQuery
 } = f1Api;

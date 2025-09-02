@@ -28,6 +28,7 @@ import InfoVoiture from './pages/Garage/InfoVoiture'
 import Article from './pages/Articles/Article'
 import Lexique from './pages/Lexique/Lexique'
 import InfoCircuit from './pages/Circuit/InfoCircuit'
+import Champions from './pages/Champions/Champions'
 
 const season="2025";
 
@@ -64,6 +65,7 @@ ReactDOM.render(
                 <Route path="latest/results" element={<LastResult />} />
                 <Route path="/article/:idArticle" element={<Article />} />
                 <Route path="/lexique" element={<Lexique />} />
+                <Route path="/champions" element={<Champions />} />
                 <Route path="*" element={<Error />} />
             </Routes>
         </Router>

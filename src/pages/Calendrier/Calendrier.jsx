@@ -1,7 +1,25 @@
 import { Link } from 'react-router-dom'
 import { useState, useEffect } from 'react'
-import styled from 'styled-components'
 import { useGetCalendrierQuery } from '../../services/f1Api'
+import styled, { keyframes } from 'styled-components'
+
+const slideInFromRight = keyframes`
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+`;
+
+const AnimatedLineRow = styled.li`
+  opacity: 0;
+  animation: ${slideInFromRight} 0.5s ease forwards;
+  animation-delay: ${props => `${props.index * 0.2}s`};
+  margin: 40px;
+`;
 
 const StyledSchedule = styled(Link)`
     padding: 15px;
@@ -58,27 +76,27 @@ function Calendrier({ year }) {
           {selectedCategory === 'past' && <h3>Grands Prix déjà eu lieu :</h3>}
           <ul>
               {selectedCategory === 'past' && pastRaces.map((race, index) => (
-                  <li key={index} class="Circuit">
+                  <AnimatedLineRow key={index} class="Circuit">
                       <strong>{race.raceName}</strong> 
                       <p>Circuit : <StyledLink to={`/circuits/${race.Circuit.circuitId}`}>{race.Circuit.circuitName}</StyledLink></p> 
                       <p>Pays : {race.Circuit.Location.country}</p>
                       <p>Ville : {race.Circuit.Location.locality}</p>
                       <p>Date : {race.date}</p>
                       <StyledLink to={`${race.season}/${index + 1}/results`}>Résultats</StyledLink>
-                  </li>
+                  </AnimatedLineRow>
               ))}
           </ul>
           
           {selectedCategory === 'future' && <h3>Grands Prix à venir :</h3>}
           <ul>
               {selectedCategory === 'future' && futureRaces.map((race, index) => (
-                  <li key={index} class="Circuit">
+                  <AnimatedLineRow key={index} class="Circuit">
                       <strong>{race.raceName}</strong> 
                       <p>Circuit : <StyledLink to={`/circuits/${race.Circuit.circuitId}`}>{race.Circuit.circuitName}</StyledLink></p> 
                       <p>Pays : {race.Circuit.Location.country}</p>
                       <p>Ville : {race.Circuit.Location.locality}</p>
                       <p>Date : {race.date}</p>
-                  </li>
+                  </AnimatedLineRow>
               ))}
               {selectedCategory === 'future' && futureRaces.length === 0}
               <li>La saison est terminée</li>

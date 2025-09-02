@@ -104,10 +104,19 @@ const GlobalStyle = createGlobalStyle`
   }
 
   .resultat {
-    padding-left: 10%;
-    text-indent: 5%;
-    border-spacing: 5%;
+    border-collapse: collapse;
+    width: auto;
+    max-width: 90%;
+    margin: 0 auto; /* centrage si on veut éviter le div flex */
   }
+
+  .resultat th,
+  .resultat td {
+    border: none; /* plus de bordure */
+    padding: 8px;
+    text-align: center;
+  }
+
 
   li {
     margin-bottom: 10px;
@@ -217,5 +226,7 @@ button:focus {
     box-shadow: 0px 0px 8px rgba(255, 87, 51, 0.75);
 }
 `;
+
+
 
 export default GlobalStyle;

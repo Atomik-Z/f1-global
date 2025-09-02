@@ -19,6 +19,7 @@ const AnimatedTableRow = styled.tr`
   opacity: 0;
   animation: ${slideInFromRight} 0.5s ease forwards;
   animation-delay: ${props => `${props.index * 0.2}s`};
+  color: ${props => props.textColor || 'inherit'};
 `;
 
 function ConstStandings() {
@@ -34,11 +35,18 @@ function ConstStandings() {
     const { data: standings, isLoading} = useGetConstructorStandingsQuery(year);
     const constructorStandings = standings?.MRData.StandingsTable.StandingsLists[0].ConstructorStandings;
 
-    
+    const getTextColor = (index) => {
+      switch(index) {
+        case 0: return "#FFD700"; // or
+        case 1: return "#C0C0C0"; // argent
+        case 2: return "#CD7F32"; // bronze
+        default: return "inherit"; // couleur normale
+      }
+    }
 
   return !isLoading && (
-    <div>
-      <table className="Constructors">
+    <div style={{ display: 'flex', justifyContent: 'center' }}>
+      <table className="Constructors" style={{ borderCollapse: 'collapse', width: 'auto' }}>
         <thead>
           <tr>
             <th>Position</th>
@@ -49,7 +57,7 @@ function ConstStandings() {
         </thead>
         <tbody>
           {constructorStandings.map((constructor, index) => (
-            <AnimatedTableRow key={index} index={index}>
+            <AnimatedTableRow key={index} index={index} textColor={getTextColor(index)}>
               <td>{constructor.position}</td>
               <td onClick={() => togglePopup(constructor.Constructor)} className="constructeur">{constructor.Constructor.name}</td>
               <td>{constructor.wins}</td>
