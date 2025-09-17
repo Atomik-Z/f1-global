@@ -11,7 +11,6 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://atomikz.github.io/f1-global",
   "dependencies": {
     "express": "^4.19.2"
   }
