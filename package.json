@@ -32,7 +32,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://atomik-z.github.io/",
+  "homepage": "https://atomik-z.github.io/f1-global",
   "eslintConfig": {
     "extends": [
       "react-app",

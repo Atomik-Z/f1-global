@@ -40,7 +40,7 @@ root.render(
         <GlobalStyle />
         <Header />
         <Routes>
-                <Route path="/" element={<Home />} />
+                <Route path="/home" element={<Home />} />
                 <Route path="/classements" element={<Classements />}>
                     <Route path=":year/pilotes" element={<ClassementPilote />} />
                     <Route path=":year/constructeurs" element={<ClassementConstructeur />} />
