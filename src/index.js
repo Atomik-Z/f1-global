@@ -41,8 +41,8 @@ root.render(
         <GlobalStyle />
         <Header />
         <Routes>
-                <Route path="/" element={<Navigate to="/home" replace />} />
-                <Route path="/home" element={<Home />} />
+                <Route path="/" element={<Navigate to="/f1-global" replace />} />
+                <Route path="/f1-global" element={<Home />} />
                 <Route path="/classements" element={<Classements />}>
                     <Route path=":year/pilotes" element={<ClassementPilote />} />
                     <Route path=":year/constructeurs" element={<ClassementConstructeur />} />

@@ -73,7 +73,7 @@ const StyledLink = styled(Link)`
 function Header() {
     return (
         <StyledNav>
-            <StyledLogo to="/home">Accueil</StyledLogo>
+            <StyledLogo to="/f1-global">Accueil</StyledLogo>
             <LinksContainer>
                 <StyledLink to="/classements">Classements</StyledLink>
                 <StyledLink to="/calendrier">Calendrier</StyledLink>
