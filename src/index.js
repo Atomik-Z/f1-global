@@ -46,8 +46,9 @@ root.render(
                     <Route path=":year/constructeurs" element={<ClassementConstructeur />} />
                 </Route>
                 <Route path="/calendrier" element={<Calendrier year={season} /> } />
-                <Route path="/garage" element={<Garage />} />
-                <Route path="/:car" element={<InfoVoiture />} />
+                <Route path="/garage" element={<Garage />}>
+                    <Route path=":car" element={<InfoVoiture />} />
+                </Route>
                 <Route path="/driver/:driverId" element={<Pilote />} />
                 <Route path="/constructor/:constructorId" element={<Constructeur />} />
                 <Route path="/circuits/:circuitId" element={<InfoCircuit />} />
