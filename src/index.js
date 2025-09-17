@@ -40,6 +40,7 @@ root.render(
         <GlobalStyle />
         <Header />
         <Routes>
+                <Route path="/" element={<Navigate to="/home" replace />} />
                 <Route path="/home" element={<Home />} />
                 <Route path="/classements" element={<Classements />}>
                     <Route path=":year/pilotes" element={<ClassementPilote />} />
@@ -63,7 +64,7 @@ root.render(
                         <Route path="saison" element={<ConstructeursSaison />} />
                     </Route>
                 </Route>
-                <Route path="latest/results" element={<LastResult />} />
+                <Route path="/latest/results" element={<LastResult />} />
                 <Route path="/article/:idArticle" element={<Article />} />
                 <Route path="/lexique" element={<Lexique />} />
                 <Route path="/champions" element={<Champions />} />
