@@ -11,7 +11,7 @@ const StyledDriverLink = styled(Link)`
 function InfoVoiture() {
     const { car } = useParams();
 
-    const currentCar = GarageData.Garage.find(g => g.nom === car);
+    const currentCar = GarageData.Garage.find(g => g.nom === decodeURIComponent(car));
     return (
         <div class="Voiture">
             <h3 id={currentCar.nom}>{currentCar.constructeur} {currentCar.nom}</h3>
